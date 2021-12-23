@@ -28,6 +28,8 @@ This Jupyter Notebook file contains the exploratory data analysis of the cleaned
 
 ## EDA
 
+Below are a few selected figures found in EDA.ipynb:
+
 <div align="center">
 <figure>
 <img src="images/salaries-by-titles.jpg"><br/>
