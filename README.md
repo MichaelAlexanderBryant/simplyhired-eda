@@ -33,4 +33,4 @@ This repository is for the analysis of data science jobs posted to the website S
 
 ## Resources
 
-1. (PlayingNumbers/ds_salary_proj)[https://github.com/PlayingNumbers/ds_salary_proj]
+1. [PlayingNumbers/ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
