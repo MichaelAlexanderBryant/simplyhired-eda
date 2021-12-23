@@ -26,7 +26,7 @@ This repository is for the analysis of data science jobs posted to the website S
 
 <figure>
 <img src="images/eda.jpg"><br/>
-  <figcaption>Figure 1: Displaying 15 images to take a look at the dataset.</figcaption>
+  <figcaption>Figure 1: </figcaption>
 </figure>
 
 </div>
