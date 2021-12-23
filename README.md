@@ -25,8 +25,8 @@ This repository is for the analysis of data science jobs posted to the website S
 <div align="center">
 
 <figure>
-<img src="images/eda.jpg"><br/>
-  <figcaption>Figure 1: </figcaption>
+<img src="images/salaries-by-titles.jpg"><br/>
+  <figcaption>Figure 1: Boxplots for salaries by job title.</figcaption>
 </figure>
 
 </div>
