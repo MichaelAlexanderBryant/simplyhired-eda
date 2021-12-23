@@ -23,12 +23,17 @@ This repository is for the analysis of data science jobs posted to the website S
 ## EDA
 
 <div align="center">
-
 <figure>
 <img src="images/salaries-by-titles.jpg"><br/>
   <figcaption>Figure 1: Boxplots for salaries by job title.</figcaption>
 </figure>
-
+</div>
+  
+<div align="center">
+<figure>
+<img src="images/qualifications-data-scientist.jpg"><br/>
+  <figcaption>Figure 2: Barplot of qualifications for data scientist job title.</figcaption>
+</figure>
 </div>
 
 ## Resources
