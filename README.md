@@ -40,7 +40,7 @@ The non-imputed cleaned dataframes were then exported for EDA.
 
 The following changes were made to the non-imputed dataframes:
 * missing company, location, and qualifications were imputed using SimpleImputer set to "most_frequent", and
-* salary was imputed using KNNImputer where the optimal parameters were determined using the non-missing data and KNeighborsRegressor.
+* missing salary was imputed using KNNImputer where the optimal parameters were determined using the non-missing data and KNeighborsRegressor.
 
 ## EDA
 
