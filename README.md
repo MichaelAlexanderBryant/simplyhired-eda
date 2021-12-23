@@ -5,7 +5,7 @@ This repository is for the analysis of data science jobs posted to the website S
 ### Code Used 
 
 **Python Version:** 3.9.7 <br />
-**Packages:** pandas, numpy, scipy, matplotlib, seaborn, statsmodels, scikit-learn, selenium, re, ast, <br />
+**Packages:** numpy, pandas, scipy, matplotlib, seaborn, statsmodels, scikit-learn, selenium, re, ast, <br />
 **For Web Framework Requirements:**  ```pip install -r requirements.txt```  
 
 ## Files
