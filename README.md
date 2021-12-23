@@ -65,7 +65,7 @@ This repository is for the analysis of data science jobs posted to the website S
 <div align="center">
 <figure>
 <img src="images/locations-data-scientist.jpg"><br/>
-  <figcaption>Figure 4: Barplot of most frequent locations for data scientist job postings.</figcaption>
+  <figcaption>Figure 5: Barplot of most frequent locations for data scientist job postings.</figcaption>
 </figure>
 </div>
 
@@ -75,7 +75,7 @@ This repository is for the analysis of data science jobs posted to the website S
 <div align="center">
 <figure>
 <img src="images/salary-diff.jpg"><br/>
-  <figcaption>Figure 5: Statistically significant predictors from ordinary least squares analysis and their impact on salary.</figcaption>
+  <figcaption>Figure 6: Statistically significant predictors from ordinary least squares analysis and their impact on salary.</figcaption>
 </figure>
 </div>
 
