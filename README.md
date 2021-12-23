@@ -54,7 +54,7 @@ This repository is for the analysis of data science jobs posted to the website S
 
 <div align="center">
 <figure>
-<img src="images/benefits-data-scientist.jpg"><br/>
+<img src="images/companies-data-scientist.jpg"><br/>
   <figcaption>Figure 4: Barplot of companies most frequently hiring data scientists.</figcaption>
 </figure>
 </div>
@@ -64,8 +64,8 @@ This repository is for the analysis of data science jobs posted to the website S
 
 <div align="center">
 <figure>
-<img src="images/benefits-data-scientist.jpg"><br/>
-  <figcaption>Figure 4: Barplot of companies most frequently hiring data scientists.</figcaption>
+<img src="images/locations-data-scientist.jpg"><br/>
+  <figcaption>Figure 4: Barplot of most frequent locations for data scientist job postings.</figcaption>
 </figure>
 </div>
 
