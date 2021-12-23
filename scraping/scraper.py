@@ -16,7 +16,7 @@ def get_posting(num_jobs, verbose=0):
     driver.set_window_size(1120, 1000)
 
     #url to begin scraping from
-    url = 'https://www.simplyhired.com/search?q=data+scientist&l=california&mi=exact&job=yg9uNGLrfFPinxyBzXi--B5GxVAlHYGQXqXiadHKUI2S7PqufaQxpQ'
+    url = 'https://www.simplyhired.com/search?q=data+science&l=california&mi=exact&job=yg9uNGLrfFPinxyBzXi--B5GxVAlHYGQXqXiadHKUI2S7PqufaQxpQ'
     
     #open url in window
     driver.get(url)    
