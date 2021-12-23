@@ -12,7 +12,7 @@ This repository is for the analysis of data science jobs posted to the website (
 
 ### scraping/scraper.py
 
-This Python script is used to scrape SimplyHired search results for "data science" job postings with a location set to "California". The output is a dataframe named raw_data.csv which is located in the scraping directory.
+This Python script is used to scrape SimplyHired search results for "data science" job postings with a location set to "California." The output is a dataframe named raw_data.csv which is located in the scraping directory.
 
 ### data_cleaning/data_cleaning.py
 
@@ -24,7 +24,23 @@ This Jupyter Notebook file contains the exploratory data analysis of the cleaned
 
 ## Data Collection
 
+The data was collected on December 17, 2021 from SimplyHired by searching "data science" jobs with a location of "California." The postings were from Aug 17, 2021 and Dec 17, 2021. The total number of postings collected was 1342. Although SimplyHired claimed there were more postings, the number of pages was limited to 99 which corresponds to 1342 postings.
+
 ## Data Cleaning
+
+The following changes were made to the scraped data prior to imputation:
+* job titles were broken into "Levels" column (which included levels such as "Jr." and "Sr.") and "Title" column (which included titles such as "Data Scientist" and "Data Analyst"),
+* company rating was removed from the company name,
+* job postings with which were not specific to California were removed,
+* job postings which did not specify a city were assigned to NaN for Location,
+* text and symbols were removed from salaries, a single digit salary was calculated where ranges were given, and hourly salaries were converted to annual, and
+* benefits and qualifications were seperated from each other, and two binary matrices were created with each column corresponding to a different benefit or qualification.
+
+The non-imputed cleaned dataframes were then exported for EDA.
+
+The following changes were made to the non-imputed dataframes:
+* missing company, location, and qualifications were imputed using SimpleImputer set to "most_frequent", and
+* salary was imputed using KNNImputer where the optimal parameters were determined using the non-missing data and KNeighborsRegressor.
 
 ## EDA
 
