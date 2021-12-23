@@ -28,11 +28,54 @@ This repository is for the analysis of data science jobs posted to the website S
   <figcaption>Figure 1: Boxplots for salaries by job title.</figcaption>
 </figure>
 </div>
+
+</br>
+</br>
   
 <div align="center">
 <figure>
 <img src="images/qualifications-data-scientist.jpg"><br/>
   <figcaption>Figure 2: Barplot of qualifications for data scientist job title.</figcaption>
+</figure>
+</div>
+
+</br>
+</br>
+
+<div align="center">
+<figure>
+<img src="images/benefits-data-scientist.jpg"><br/>
+  <figcaption>Figure 3: Barplot of benefits for data scientist job title.</figcaption>
+</figure>
+</div>
+
+</br>
+</br>
+
+<div align="center">
+<figure>
+<img src="images/benefits-data-scientist.jpg"><br/>
+  <figcaption>Figure 4: Barplot of companies most frequently hiring data scientists.</figcaption>
+</figure>
+</div>
+
+</br>
+</br>
+
+<div align="center">
+<figure>
+<img src="images/benefits-data-scientist.jpg"><br/>
+  <figcaption>Figure 4: Barplot of companies most frequently hiring data scientists.</figcaption>
+</figure>
+</div>
+
+</br>
+</br>
+
+<div align="center">
+<figure>
+<img src="images/salary-diff.jpg"><br/>
+  <figcaption>Figure 5: Statistically significant predictors from ordinary least squares analysis and their impact on salary.</figcaption>
 </figure>
 </div>
 
