@@ -1,0 +1,1288 @@
+,Title,Company,Location,Salary,Levels
+0,Data Scientist,Numerdox,"Sacramento, CA",110000.0,Jr.
+1,Data Analyst,Cepheid,"Lodi, CA",120000.0,Unknown
+2,Data Scientist,Cepheid,"Sunnyvale, CA",150000.0,Staff
+3,Data Scientist,Verana Health,"San Francisco, CA",150000.0,Unknown
+4,Data Scientist,Tinder,"San Francisco, CA",130000.0,Jr.
+5,Data Scientist,JPL/NASA,"Pasadena, CA",100000.0,Jr.
+6,Data Scientist,IBM,"San Jose, CA",120000.0,Unknown
+7,Data Scientist,Indeed,"San Francisco, CA",223000.0,Sr.
+8,Data Scientist,Ezoic,"Carlsbad, CA",100000.0,Unknown
+9,Data Scientist,City of Hope,,,Unknown
+10,Data Scientist,Airtable,"San Francisco, CA",130000.0,Unknown
+11,Data Scientist,Twitch,"San Francisco, CA",110000.0,Unknown
+12,Data Scientist,Philo,"San Francisco, CA",150000.0,Unknown
+13,Data Scientist,Google,"Mountain View, CA",,Unknown
+14,Data Scientist,Turntide Technologies,,170000.0,Unknown
+15,Machine Learning Scientist,Target,"San Francisco, CA",,Lead
+16,Data Scientist,City of Hope,,,Sr.
+17,Data Scientist,ClimateAI,"San Francisco Bay Area, CA",140000.0,Unknown
+18,Data Analyst,PwC,"Los Angeles, CA",130000.0,Jr.
+19,Director of Data Science,Harnham,"San Francisco, CA",220000.0,Unknown
+20,Machine Learning Engineer,Uber,"San Francisco, CA",180000.0,Jr.
+21,Data Scientist,Twitch,"San Francisco, CA",160000.0,Unknown
+22,Data Engineer,DG Savants,"Sunnyvale, CA",110000.0,Unknown
+23,Data Scientist,ABB,"Irvine, CA",100000.0,Unknown
+24,Data Scientist,Kelvin Inc,"San Francisco, CA",160000.0,Unknown
+25,Machine Learning Engineer,Amazon.com Services LLC,"Santa Barbara, CA",,Unknown
+26,Data Scientist,Indeed,"San Francisco, CA",223000.0,Sr.
+27,Machine Learning Engineer,Uber,"Sunnyvale, CA",190000.0,Sr.
+28,Data Scientist,Harnham,"San Francisco, CA",240000.0,Lead
+29,Data Scientist,6sense,"San Francisco, CA",110000.0,Unknown
+30,Data Scientist,Foursquare,"Los Angeles, CA",120000.0,Unknown
+31,Data Scientist,Invitae,,110000.0,Unknown
+32,Data Scientist,Osair Technologies,"San Francisco, CA",83200.0,Unknown
+33,Data Scientist,Osair Technologies,"San Francisco, CA",87360.0,Jr.
+34,Machine Learning Engineer,Uber,"San Francisco, CA",190000.0,Sr.
+35,Software Engineer,Uber,"Sunnyvale, CA",130000.0,Staff
+36,Data Scientist,Allbirds,"San Francisco, CA",120000.0,Staff
+37,Machine Learning Engineer,Uber,"San Francisco, CA",150000.0,Sr.
+38,Data Scientist,Clinical Management Consultants,"Palo Alto, CA",135355.0,Unknown
+39,Data Scientist,Ezoic,"Carlsbad, CA",100000.0,Unknown
+40,Data Scientist,Visa,"Foster City, CA",100000.0,Unknown
+41,Data Scientist,TikTok,"Mountain View, CA",150000.0,Sr.
+42,Data Scientist,TikTok,"Los Angeles, CA",110000.0,Unknown
+43,Data Scientist,TikTok,"Los Angeles, CA",130000.0,Unknown
+44,Data Scientist,Bayer,"San Francisco, CA",150000.0,Jr.
+45,Machine Learning Engineer,Harnham,"Los Angeles, CA",160000.0,Sr.
+46,Machine Learning Engineer,Uber,"San Francisco, CA",170000.0,Sr.
+47,Data Scientist,CyberCoders,"San Jose, CA",150000.0,Unknown
+48,Data Scientist,Skai,"San Francisco, CA",120000.0,Jr.
+49,Data Scientist,PayPal,"San Jose, CA",110000.0,Unknown
+50,Data Engineer,Kernel,"Culver City, CA",130000.0,Unknown
+51,Data Scientist,"Twitch Interactive, Inc.","San Francisco, CA",,Unknown
+52,Data Scientist,Twitch,"San Francisco, CA",160000.0,Sr.
+53,Data Science Manager,Harnham,"San Francisco, CA",240000.0,Unknown
+54,Data Engineer,Wells Fargo,"Concord, CA",130000.0,Unknown
+55,Data Scientist,SpanIdea Systems,"San Jose, CA",110000.0,Unknown
+56,Machine Learning Engineer,Wells Fargo,"San Francisco, CA",150000.0,Sr.
+57,Machine Learning Scientist,Bristol Myers Squibb,"Redwood City, CA",200000.0,Principal
+58,Machine Learning Scientist,Bristol Myers Squibb,"Redwood City, CA",150000.0,Sr.
+59,Data Scientist,Spotline Inc,"Oakland, CA",,Unknown
+60,Data Analyst,Cepheid,"Lodi, CA",100000.0,Unknown
+61,Data Scientist,Seer,"Redwood City, CA",120000.0,Unknown
+62,Data Analyst,University of California San Francisco,"San Francisco, CA",82000.0,Principal
+63,Data Scientist,The Patrick J. McGovern Foundation,"San Francisco Bay Area, CA",130000.0,Unknown
+64,Data Scientist,CyberCoders,"San Francisco, CA",200000.0,Lead
+65,Director of Data Science,Jazz Pharmaceuticals,"Palo Alto, CA",170000.0,Unknown
+66,Machine Learning Engineer,Harnham,"Los Angeles, CA",160000.0,Sr.
+67,Machine Learning Scientist,Adobe,"San Jose, CA",230000.0,Unknown
+68,Data Scientist,Foursquare,"Los Angeles, CA",130000.0,Unknown
+69,Data Scientist,Forward,"San Francisco, CA",120000.0,Unknown
+70,Data Scientist,TikTok,"Mountain View, CA",120000.0,Unknown
+71,Machine Learning Engineer,Pinterest,"San Francisco, CA",140000.0,Unknown
+72,Software Engineer,Jazz Pharmaceuticals,"Palo Alto, CA",160000.0,Principal
+73,Data Science Manager,Verizon,"Lake Forest, CA",170000.0,Unknown
+74,Machine Learning Scientist,TikTok,"Mountain View, CA",120000.0,Unknown
+75,Software Engineer,Uber,"San Francisco, CA",220000.0,Sr.
+76,Machine Learning Engineer,Uber,"Sunnyvale, CA",170000.0,Sr.
+77,Machine Learning Engineer,Harnham,"Los Angeles, CA",160000.0,Sr.
+78,Data Scientist,Slack,"San Francisco, CA",,Staff
+79,Data Scientist,Wish,"San Francisco, CA",150000.0,Sr.
+80,Data Scientist,Cash App,"San Francisco, CA",180000.0,Sr.
+81,Data Scientist,Netflix,"Los Angeles, CA",170000.0,Sr.
+82,Data Scientist,Extend,"San Francisco, CA",160000.0,Unknown
+83,Machine Learning Engineer,Uber,"San Francisco, CA",180000.0,Staff
+84,Director of Data Science,Sleep Number,"San Jose, CA",220000.0,Unknown
+85,Machine Learning Engineer,Uber,"Sunnyvale, CA",170000.0,Staff
+86,Data Scientist,TikTok,"Mountain View, CA",140000.0,Lead
+87,Data Scientist,ByteDance,"Mountain View, CA",120000.0,Unknown
+88,Data Scientist,Opendoor,"San Francisco Bay Area, CA",140000.0,Staff
+89,Data Scientist,Moveworks,"Mountain View, CA",150000.0,Unknown
+90,Data Scientist,QuestBridge,,130000.0,Unknown
+91,Software Engineer,Uber,"San Francisco, CA",160000.0,Unknown
+92,Data Scientist,Uber,"San Francisco, CA",170000.0,Principal
+93,Data Scientist,Hypersonix Inc.,"San Jose, CA",140000.0,Unknown
+94,Machine Learning Engineer,Harnham,"Los Angeles, CA",160000.0,Sr.
+95,Data Scientist,Indeed,"San Francisco, CA",223000.0,Sr.
+96,Data Science Manager,CyberCoders,"San Francisco, CA",225000.0,Unknown
+97,Machine Learning Scientist,Herophilus,"San Francisco, CA",140000.0,Unknown
+98,Data Scientist,"Grammarly, Inc.","San Francisco, CA",120000.0,Unknown
+99,Data Scientist,Stanford University,"Stanford, CA",140000.0,Unknown
+100,Data Scientist,Disney Media & Entertainment Distribution,"Santa Monica, CA",130000.0,Unknown
+101,Data Scientist,Rippling,,110000.0,Unknown
+102,Director of Data Science,Sleep Number,"San Jose, CA",220000.0,Unknown
+103,Machine Learning Engineer,Uber,"San Francisco, CA",180000.0,Staff
+104,Machine Learning Engineer,,,180000.0,Sr.
+105,Data Scientist,GoodRx,"Santa Monica, CA",150000.0,Sr.
+106,Data Scientist,PlayStation Global,"San Mateo, CA",150000.0,Sr.
+107,Data Scientist,The Yes,"San Francisco Bay Area, CA",120000.0,Unknown
+108,Data Scientist,Abbott Laboratories,"Sylmar, CA",120000.0,Staff
+109,Data Scientist,NVIDIA,"Santa Clara, CA",180000.0,Sr.
+110,Software Engineer,PwC,"Los Angeles, CA",170000.0,Jr.
+111,Machine Learning Engineer,Harnham,"San Diego, CA",180000.0,Sr.
+112,Data Scientist,OTTR Chronic Care Solutions,"Brisbane, CA",160000.0,Unknown
+113,Machine Learning Engineer,Uber,"Sunnyvale, CA",180000.0,Sr.
+114,Data Science Manager,PwC,"Los Angeles, CA",180000.0,Unknown
+115,Data Architect,Verizon,"Fountain Valley, CA",180000.0,Unknown
+116,Data Scientist,Avila Trading,"San Francisco, CA",160000.0,Unknown
+117,Data Scientist,Herophilus,"San Francisco, CA",140000.0,Unknown
+118,Data Scientist,Afterpay Touch,"San Francisco, CA",160000.0,Unknown
+119,Data Scientist,Aruba Networks,"San Jose, CA",160000.0,Unknown
+120,Data Scientist,Blockchain.com,,140000.0,Unknown
+121,Data Engineer,CyberCoders,"San Francisco, CA",200000.0,Sr.
+122,Data Science Manager,Shopify,"Long Beach, CA",120000.0,Unknown
+123,Data Scientist,TikTok,"Los Angeles, CA",130000.0,Unknown
+124,Data Scientist,Aurora Innovation,"San Francisco, CA",110000.0,Unknown
+125,Data Scientist,UKG (Ultimate Kronos Group),"San Francisco, CA",130000.0,Unknown
+126,Data Scientist,Pinterest,"San Francisco, CA",160000.0,Jr.
+127,Data Scientist,Opendoor,"San Francisco Bay Area, CA",160000.0,Sr.
+128,Machine Learning Engineer,ASML,"San Jose, CA",120000.0,Unknown
+129,Data Scientist,Kyte,"San Francisco, CA",120000.0,Unknown
+130,Data Science Manager,PwC,"Los Angeles, CA",190000.0,Unknown
+131,Data Engineer,CyberCoders,"San Francisco, CA",200000.0,Sr.
+132,Machine Learning Engineer,CyberCoders,"Santa Clara, CA",250000.0,Staff
+133,Data Scientist,Stanford University,"Stanford, CA",110000.0,Unknown
+134,Data Scientist,"Twitch Interactive, Inc.","San Francisco, CA",,Unknown
+135,Data Scientist,WarnerMedia,"Burbank, CA",110000.0,Unknown
+136,Data Scientist,Farmers Insurance Group,,65000.0,Unknown
+137,Data Scientist,Visa,"Foster City, CA",160000.0,Sr.
+138,Software Engineer,Uber,"San Francisco, CA",180000.0,Sr.
+139,Machine Learning Engineer,CyberCoders,"Menlo Park, CA",200000.0,Sr.
+140,Data Scientist,FriendFinder Networks,"San Jose, CA",120000.0,Unknown
+141,Data Scientist,"Grammarly, Inc.","San Francisco, CA",130000.0,Unknown
+142,Data Scientist,Terray Therapeutics,,140000.0,Jr.
+143,Data Scientist,Tesla,"Fremont, CA",130000.0,Unknown
+144,Machine Learning Engineer,TikTok,"Mountain View, CA",130000.0,Unknown
+145,Machine Learning Engineer,ASML,"San Jose, CA",120000.0,Unknown
+146,Data Engineer,NVIDIA,"Santa Clara, CA",110000.0,Unknown
+147,Machine Learning Engineer,PwC,"Los Angeles, CA",130000.0,Jr.
+148,Machine Learning Engineer,CyberCoders,"San Francisco, CA",200000.0,Sr.
+149,Machine Learning Scientist,"Zenith Electronics, LLC","Santa Clara, CA",160000.0,Sr.
+150,Data Scientist,Bosch Group,"Sunnyvale, CA",150000.0,Unknown
+151,Data Scientist,Gilead Sciences,"Foster City, CA",150000.0,Unknown
+152,Machine Learning Scientist,Genentech,"San Francisco, CA",160000.0,Unknown
+153,Machine Learning Engineer,AutoX Inc,"San Jose, CA",170000.0,Unknown
+154,Data Scientist,Universal Orlando,"Hollywood, CA",120000.0,Unknown
+155,Data Scientist,Ursus,"San Francisco, CA",220000.0,Sr.
+156,Data Scientist,TikTok,"Mountain View, CA",140000.0,Unknown
+157,Data Scientist,WarnerMedia,"Culver City, CA",160000.0,Staff
+158,Data Scientist,Netflix,"Los Angeles, CA",170000.0,Sr.
+159,Data Scientist,Reddit,,140000.0,Staff
+160,Data Scientist,"Twitch Interactive, Inc.","San Francisco, CA",,Sr.
+161,Data Scientist,Brambles Group,"Santa Clara, CA",160000.0,Unknown
+162,Data Scientist,SCAN Health Plan,"Long Beach, CA",120000.0,Unknown
+163,Data Scientist,CaaStle,"Mountain View, CA",150000.0,Sr.
+164,Applied Scientist,Microsoft,"Mountain View, CA",150000.0,Unknown
+165,Data Scientist,Ursus,"San Francisco, CA",220000.0,Sr.
+166,Machine Learning Scientist,"Zenith Electronics, LLC","Santa Clara, CA",160000.0,Sr.
+167,Data Scientist,Envision,"West Sacramento, CA",140000.0,Unknown
+168,Data Scientist,TikTok,"Mountain View, CA",110000.0,Unknown
+169,Data Scientist,Wish,"San Francisco, CA",120000.0,Unknown
+170,Data Scientist,TikTok,"Mountain View, CA",120000.0,Jr.
+171,Data Scientist,NVIDIA,"Santa Clara, CA",140000.0,Sr.
+172,Data Scientist,Blue River Technology,"Sunnyvale, CA",140000.0,Unknown
+173,Data Scientist,CaaStle,"Mountain View, CA",150000.0,Sr.
+174,Data Science Manager,CyberCoders,"Los Angeles, CA",90000.0,Unknown
+175,Data Scientist,"Agilent Technologies, Inc.","Santa Clara, CA",120000.0,Unknown
+176,Data Scientist,NVIDIA,"Santa Clara, CA",150000.0,Unknown
+177,Machine Learning Engineer,TikTok,"Mountain View, CA",160000.0,Unknown
+178,Data Scientist,Nordstrom Inc,"Los Angeles, CA",,Unknown
+179,Data Scientist,City of Hope,"Duarte, CA",,Unknown
+180,Data Scientist,TikTok,"Mountain View, CA",140000.0,Unknown
+181,Data Scientist,Warman O'Brien,"San Francisco, CA",140000.0,Unknown
+182,Data Scientist,Envision,"West Sacramento, CA",140000.0,Unknown
+183,Machine Learning Engineer,CyberCoders,"Pasadena, CA",180000.0,Sr.
+184,Data Scientist,TikTok,"Mountain View, CA",140000.0,Lead
+185,Machine Learning Engineer,TikTok,"Mountain View, CA",120000.0,Unknown
+186,Machine Learning Scientist,SRI International,"Menlo Park, CA",190140.0,Unknown
+187,Data Science Manager,TikTok,"Mountain View, CA",190000.0,Unknown
+188,Data Scientist,Indeed,"San Francisco, CA",324000.0,Principal
+189,Machine Learning Engineer,CyberCoders,"El Segundo, CA",150000.0,Unknown
+190,Data Analyst,Checkmate Partners,,200000.0,Sr.
+191,Software Engineer,Grammarly,,259000.0,Unknown
+192,Machine Learning Scientist,Atomic AI,"South San Francisco, CA",150000.0,Unknown
+193,Software Engineer,Discord,,170000.0,Sr.
+194,Data Scientist,Lucid Motors,"Newark, CA",110000.0,Jr.
+195,Director of Data Science,TalkingPoints,,200000.0,Unknown
+196,Software Engineer,Lawrence Berkeley National Laboratory,"San Francisco Bay Area, CA",,Unknown
+197,Machine Learning Engineer,Ursus,"El Segundo, CA",160000.0,Unknown
+198,Data Scientist,TikTok,"Mountain View, CA",140000.0,Lead
+199,Data Analyst,Checkmate Partners,,200000.0,Sr.
+200,Data Scientist,Northrop Grumman,"San Diego, CA",167400.0,Sr.
+201,Data Scientist,Nuro,"Mountain View, CA",110000.0,Unknown
+202,Data Scientist,Step,,150000.0,Unknown
+203,Applied Scientist,Sojern,"San Francisco, CA",160000.0,Sr.
+204,Machine Learning Engineer,TikTok,"Mountain View, CA",160000.0,Unknown
+205,Data Scientist,Shipt,"San Francisco, CA",200000.0,Principal
+206,Data Scientist,Mulligan Funding,"San Diego, CA",120000.0,Unknown
+207,Data Engineer,AiCard,"Irvine, CA",350000.0,Sr.
+208,Data Scientist,Foursquare,"Los Angeles, CA",120000.0,Unknown
+209,Applied Scientist,PicnicHealth,"San Francisco, CA",160000.0,Unknown
+210,Data Scientist,Socure,,140000.0,Unknown
+211,Data Scientist,Convex Tech,"San Francisco, CA",140000.0,Unknown
+212,Data Scientist,Ipsos North America,"Culver City, CA",120000.0,Unknown
+213,Data Scientist,Ursus,"Los Angeles, CA",85000.0,Unknown
+214,Statistician,UCLA,"Los Angeles, CA",,Unknown
+215,Data Scientist,Northrop Grumman,"San Diego, CA",167400.0,Sr.
+216,Data Engineer,Golden State Foods,"Irvine, CA",120000.0,Unknown
+217,Statistician,UCLA,"Los Angeles, CA",,Principal
+218,Machine Learning Scientist,The Walt Disney Studios,"Burbank, CA",150000.0,Unknown
+219,Data Scientist,TikTok,"Mountain View, CA",130000.0,Unknown
+220,Data Analyst,REDICA Systems,"Pleasanton, CA",59000.0,Jr.
+221,Data Scientist,TikTok,"Mountain View, CA",190000.0,Staff
+222,Data Analyst,Kett Engineering,"Santa Clara, CA",10400.0,Unknown
+223,Data Scientist,"Automat Solutions, Inc.","Fremont, CA",150000.0,Unknown
+224,Data Scientist,Roche,"Santa Clara, CA",170000.0,Principal
+225,Machine Learning Engineer,Synergy Solutions,"San Francisco, CA",187200.0,Unknown
+226,Data Analyst,Aviatrix,"Santa Clara, CA",98000.0,Unknown
+227,Data Scientist,Roche,"Santa Clara, CA",190000.0,Principal
+228,Data Scientist,SynTouch Inc.,"Glendale, CA",97000.0,Unknown
+229,Machine Learning Engineer,Tiktok Pte. Ltd.,"Mountain View, CA",130000.0,Unknown
+230,Data Scientist,Genentech,"Santa Clara, CA",170000.0,Principal
+231,Machine Learning Engineer,Tiktok Pte. Ltd.,"Mountain View, CA",130000.0,Unknown
+232,Machine Learning Engineer,TikTok,"Mountain View, CA",150000.0,Unknown
+233,Data Scientist,TikTok,"Los Angeles, CA",120000.0,Unknown
+234,Data Scientist,"Jefferies & Company, Inc.","San Francisco, CA",130000.0,Unknown
+235,Data Scientist,Twin Health,"Mountain View, CA",180000.0,Staff
+236,Data Scientist,E. & J. Gallo Winery,"Modesto, CA",110000.0,Unknown
+237,Data Scientist,Glassdoor,,,Lead
+238,Data Scientist,Ignitech Solutions LLC,"San Francisco, CA",170000.0,Sr.
+239,Data Scientist,SynTouch Inc.,"Glendale, CA",97000.0,Unknown
+240,Data Scientist,Hulu,"Santa Monica, CA",170000.0,Lead
+241,Data Scientist,Robinhood,"Menlo Park, CA",130000.0,Sr.
+242,Data Scientist,Moveworks,,130000.0,Unknown
+243,Data Scientist,Amazon.com Services LLC,,,Unknown
+244,Data Scientist,99,"Mountain View, CA",140000.0,Unknown
+245,Data Scientist,Specific Diagnostics,"Mountain View, CA",170000.0,Unknown
+246,Data Scientist,TargetCW,"San Francisco, CA",0.0,Unknown
+247,Data Engineer,NVIDIA,"Santa Clara, CA",150000.0,Unknown
+248,Data Analyst,ENERGY SOLUTIONS,"Oakland, CA",90000.0,Sr.
+249,Data Scientist,Intuit,"Mountain View, CA",140000.0,Staff
+250,Data Scientist,"Healthcare Staffing Professionals, Inc.","Los Angeles, CA",,Unknown
+251,Data Scientist,Farmers Insurance Group,"Woodland Hills, CA",150000.0,Unknown
+252,Applied Scientist,Amazon.com Services LLC,"Santa Monica, CA",,Jr.
+253,Data Scientist,Facebook App,"Menlo Park, CA",130000.0,Unknown
+254,Software Engineer,Google,"Mountain View, CA",130000.0,Sr.
+255,Data Scientist,Aven,"San Francisco Bay Area, CA",120000.0,Unknown
+256,Data Scientist,Intuit,"Mountain View, CA",140000.0,Staff
+257,Data Scientist,Specific Diagnostics,"Mountain View, CA",170000.0,Unknown
+258,Machine Learning Engineer,Checkmate Partners,,250000.0,Sr.
+259,Data Scientist,Plaid,"San Francisco, CA",150000.0,Unknown
+260,Data Scientist,Levi Strauss & Co.,"San Francisco, CA",180000.0,Sr.
+261,Machine Learning Engineer,Tinder,"San Francisco, CA",160000.0,Unknown
+262,Data Scientist,Williams Sonoma,"San Francisco, CA",160000.0,Sr.
+263,Data Scientist,Nordstrom Inc,"Los Angeles, CA",,Sr.
+264,Data Scientist,Intuit,"Mountain View, CA",160000.0,Sr.
+265,Data Scientist,Talent Search PRO,"San Francisco, CA",180000.0,Sr.
+266,Data Engineer,Spanidea Systemms,"San Jose, CA",,Unknown
+267,Data Scientist,Talent Search PRO,"San Francisco, CA",180000.0,Sr.
+268,Data Scientist,Accion Opportunity Fund,"San Jose, CA",100000.0,Unknown
+269,Data Scientist,Belcan,"West Sacramento, CA",130000.0,Unknown
+270,Data Scientist,Hulu,"Santa Monica, CA",150000.0,Lead
+271,Data Scientist,Shipt,"San Francisco, CA",150000.0,Lead
+272,Data Scientist,Shipt,"San Francisco, CA",170000.0,Sr.
+273,Data Scientist,Spring Discovery,"San Carlos, CA",120000.0,Unknown
+274,Data Scientist,HANUMAYAMMA INNOVATIONS AND TECHNOLOGIES,"San Francisco, CA",150000.0,Unknown
+275,Data Science Manager,Essex Property Trust,"San Mateo, CA",160000.0,Unknown
+276,Data Scientist,TargetCW,"San Francisco, CA",0.0,Unknown
+277,Data Scientist,Shipt,"San Francisco, CA",120000.0,Unknown
+278,Data Scientist,Talkdesk,,120000.0,Unknown
+279,Data Scientist,TikTok,"Mountain View, CA",100000.0,Unknown
+280,Software Engineer,Twitch,"San Francisco, CA",170000.0,Unknown
+281,Data Scientist,Ericsson,"Santa Clara, CA",160000.0,Sr.
+282,Data Architect,"Evolver. LLC, a CSS Company","San Francisco, CA",,Sr.
+283,Data Scientist,Cox Communications Inc,"Los Angeles, CA",99000.0,Unknown
+284,Data Scientist,TikTok,"Los Angeles, CA",120000.0,Unknown
+285,Data Scientist,Kite Pharma,"Santa Monica, CA",120000.0,Staff
+286,Machine Learning Scientist,"TuSimple, Inc.","San Jose, CA",150000.0,Sr.
+287,Data Scientist,Volt Workforce Solutions,"Irvine, CA",80080.0,Unknown
+288,Data Scientist,TikTok,"Mountain View, CA",160000.0,Sr.
+289,Data Scientist,Johnson & Johnson Family of Companies,"San Francisco, CA",150000.0,Sr.
+290,Machine Learning Scientist,ByteDance,"Mountain View, CA",110000.0,Unknown
+291,Data Scientist,Hewlett Packard Enterprise,"San Jose, CA",110000.0,Unknown
+292,Machine Learning Engineer,Tubi,"San Francisco, CA",140000.0,Unknown
+293,Director of Data Science,Indeed,"San Francisco, CA",434000.0,Unknown
+294,Data Scientist,Fisker Inc,"San Francisco, CA",130000.0,Unknown
+295,Data Scientist,Invitae,,150000.0,Unknown
+296,Machine Learning Scientist,Helio Health Inc.,"Irvine, CA",190000.0,Sr.
+297,Data Scientist,TikTok,"Mountain View, CA",130000.0,Unknown
+298,Machine Learning Engineer,Tinder,"San Francisco, CA",190000.0,Sr.
+299,Machine Learning Scientist,Resiliency LLC,"San Francisco, CA",130000.0,Sr.
+300,Data Scientist,Cox Communications Inc,"Los Angeles, CA",99000.0,Unknown
+301,Data Scientist,Indeed,"Sunnyvale, CA",223000.0,Sr.
+302,Data Scientist,Tiktok Pte. Ltd.,"Los Angeles, CA",160000.0,Sr.
+303,Director of Data Science,Indeed,"San Francisco, CA",434000.0,Unknown
+304,Data Scientist,NVIDIA,"Santa Clara, CA",180000.0,Sr.
+305,Data Scientist,TikTok,"Mountain View, CA",140000.0,Sr.
+306,Statistician,University of California San Francisco,"San Francisco, CA",84000.0,Jr.
+307,Data Scientist,Uber,"San Francisco, CA",160000.0,Sr.
+308,Data Scientist,Foursquare,"Los Angeles, CA",130000.0,Unknown
+309,Data Architect,"Evolver. LLC, a CSS Company","San Francisco, CA",,Sr.
+310,Data Scientist,Cox Automotive,"Irvine, CA",110000.0,Sr.
+311,Data Scientist,Microsoft,"Sunnyvale, CA",190000.0,Sr.
+312,Data Scientist,TikTok,"Mountain View, CA",150000.0,Sr.
+313,Data Scientist,Instacart,,170000.0,Staff
+314,Data Scientist,Ford Motor Company,"Palo Alto, CA",100000.0,Unknown
+315,Data Scientist,Salesforce,"San Francisco, CA",,Staff
+316,Machine Learning Scientist,"TuSimple, Inc.","San Jose, CA",150000.0,Sr.
+317,Data Scientist,Intuit,"Mountain View, CA",220000.0,Principal
+318,Data Scientist,RAPP,"Los Angeles, CA",130000.0,Unknown
+319,Data Scientist,Fiserv,"Sunnyvale, CA",190000.0,Sr.
+320,Machine Learning Engineer,Leidos,"Vista, CA",,Unknown
+321,Data Scientist,Aurora Innovation,"Mountain View, CA",99000.0,Unknown
+322,Machine Learning Engineer,TikTok,"Mountain View, CA",120000.0,Unknown
+323,Data Scientist,Heap,,140000.0,Sr.
+324,Machine Learning Engineer,TikTok,"Mountain View, CA",110000.0,Unknown
+325,Data Scientist,Disney Media & Entertainment Distribution,"Burbank, CA",170000.0,Lead
+326,Software Engineer,Black Sesame Technologies Inc,"San Jose, CA",130000.0,Jr.
+327,Data Scientist,Volt Workforce Solutions,"Irvine, CA",80080.0,Unknown
+328,Machine Learning Scientist,"TuSimple, Inc.","San Jose, CA",150000.0,Sr.
+329,Data Scientist,"View, Inc.","Milpitas, CA",140000.0,Unknown
+330,Data Scientist,TikTok,"Mountain View, CA",160000.0,Unknown
+331,Data Science Manager,TikTok,"Mountain View, CA",120000.0,Unknown
+332,Data Scientist,Nauto,"Palo Alto, CA",190000.0,Sr.
+333,Vice President of Data Science,Netflix,"Los Angeles, CA",160000.0,Unknown
+334,Data Architect,"Evolver. LLC, a CSS Company","San Francisco, CA",,Sr.
+335,Data Scientist,Cox Communications Inc,"Los Angeles, CA",99000.0,Unknown
+336,Data Scientist,RAPP,"San Francisco, CA",150000.0,Unknown
+337,Machine Learning Engineer,Resiliency LLC,"San Francisco, CA",180000.0,Sr.
+338,Data Analyst,CalPrivate Bank,,93000.0,Sr.
+339,Director of Data Science,Penfield Search Partners,"South San Francisco, CA",130000.0,Unknown
+340,Applied Scientist,Microsoft,"Sunnyvale, CA",170000.0,Sr.
+341,Machine Learning Scientist,Microsoft,"Mountain View, CA",180000.0,Sr.
+342,Vice President of Data Science,Universal Music Group,"Santa Monica, CA",180000.0,Unknown
+343,Data Scientist,Cash App,"San Francisco, CA",160000.0,Sr.
+344,Machine Learning Scientist,TikTok,"Mountain View, CA",170000.0,Unknown
+345,Software Engineer,Penfield Search Partners,"Westlake Village, CA",140000.0,Sr.
+346,Data Analyst,Intuit,"Mountain View, CA",130000.0,Sr.
+347,Data Scientist,Cox Automotive,"Irvine, CA",130000.0,Sr.
+348,Data Scientist,Shipt,"San Francisco, CA",200000.0,Principal
+349,Data Scientist,Uber,"San Francisco, CA",160000.0,Sr.
+350,Applied Scientist,"Amazon Dev Center U.S., Inc.","Santa Clara, CA",,Unknown
+351,Data Scientist,Kyte,"San Francisco, CA",190000.0,Sr.
+352,Data Scientist,Auryc,"Los Altos, CA",140000.0,Unknown
+353,Data Analyst,Dermalogica LLC,"Carson, CA",140000.0,Sr.
+354,Machine Learning Engineer,Talent Search PRO,"San Francisco, CA",180000.0,Sr.
+355,Data Scientist,Indeed,"Sunnyvale, CA",223000.0,Sr.
+356,Machine Learning Engineer,Resiliency LLC,"San Francisco, CA",180000.0,Sr.
+357,Data Analyst,Movoto,,100000.0,Sr.
+358,Data Engineer,DecisionLogic,"San Diego, CA",120000.0,Unknown
+359,Data Scientist,Roche,"Santa Clara, CA",170000.0,Sr.
+360,Data Scientist,Abbott Laboratories,"Sylmar, CA",150000.0,Staff
+361,Data Scientist,Red Bull,"Santa Monica, CA",140000.0,Sr.
+362,Data Scientist,"Twitch Interactive, Inc.","San Francisco, CA",,Unknown
+363,Data Scientist,Lumiata Inc.,"San Mateo, CA",190000.0,Principal
+364,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",140000.0,Unknown
+365,Machine Learning Engineer,Belcan,"Mountain View, CA",150000.0,Unknown
+366,Data Scientist,University of California San Francisco,"San Francisco, CA",160000.0,Unknown
+367,Data Scientist,Activision,"Santa Monica, CA",160000.0,Sr.
+368,Machine Learning Scientist,Totus Medicines,"San Francisco, CA",130000.0,Unknown
+369,Machine Learning Scientist,STAR Labs,"Los Gatos, CA",170000.0,Unknown
+370,Data Scientist,Turntide Technologies,,180000.0,Sr.
+371,Data Analyst,"Artizen, Inc.","San Francisco, CA",100000.0,Unknown
+372,Data Analyst,Aquent,"Cupertino, CA",150000.0,Sr.
+373,Data Scientist,Aurora Innovation,"San Francisco, CA",110000.0,Unknown
+374,Machine Learning Engineer,Belcan,"Mountain View, CA",150000.0,Unknown
+375,Data Analyst,Aquent,"Cupertino, CA",150000.0,Sr.
+376,Data Scientist,Capella Space,,150000.0,Unknown
+377,Data Scientist,Together Labs,"Redwood City, CA",140000.0,Unknown
+378,Machine Learning Engineer,Standard Cognition,"San Francisco, CA",160000.0,Staff
+379,Data Scientist,Vitria Technology,"Menlo Park, CA",150000.0,Unknown
+380,Data Scientist,Foursquare,"Los Angeles, CA",130000.0,Unknown
+381,Data Analyst,Point Digital Finance,,110000.0,Sr.
+382,Machine Learning Engineer,Intuit,"Mountain View, CA",170000.0,Staff
+383,Machine Learning Scientist,Nuro,"Mountain View, CA",220000.0,Sr.
+384,Data Scientist,Intuitive,"Palo Alto, CA",,Sr.
+385,Data Scientist,Shipt,,100000.0,Principal
+386,Data Scientist,Chan Zuckerberg Initiative,,170000.0,Staff
+387,Data Scientist,Plume,,150000.0,Unknown
+388,Machine Learning Engineer,Intuit,"Mountain View, CA",160000.0,Sr.
+389,Data Science Manager,"TuSimple, Inc.",,150000.0,Unknown
+390,Machine Learning Engineer,Pinterest,"San Francisco, CA",140000.0,Unknown
+391,Data Scientist,Oculus Search Partners LLC,"Mountain View, CA",180000.0,Sr.
+392,Data Analyst,Intuit,"Mountain View, CA",130000.0,Sr.
+393,Data Scientist,Medtronic,"Northridge, CA",150000.0,Unknown
+394,Data Scientist,"Arcules, Inc.","Irvine, CA",150000.0,Unknown
+395,Machine Learning Engineer,Google,"Sunnyvale, CA",140000.0,Lead
+396,Data Scientist,Getaround,"San Francisco, CA",180000.0,Sr.
+397,Data Scientist,Discord,"San Francisco, CA",170000.0,Sr.
+398,Data Analyst,Intuit,"Mountain View, CA",120000.0,Sr.
+399,Data Analyst,Aquent,"Cupertino, CA",150000.0,Sr.
+400,Data Scientist,Extend,"San Francisco, CA",150000.0,Unknown
+401,Data Scientist,Forward,"San Francisco, CA",130000.0,Unknown
+402,Machine Learning Scientist,Zippin,"San Carlos, CA",150000.0,Principal
+403,Data Scientist,Scaleapi,"San Francisco, CA",180000.0,Sr.
+404,Data Scientist,Wayfair,"San Francisco, CA",150000.0,Staff
+405,Director of Data Science,Vertex Pharmaceuticals,"San Diego, CA",240000.0,Unknown
+406,Data Scientist,Intuitive,"Palo Alto, CA",,Sr.
+407,Data Scientist,Oculus Search Partners LLC,"Mountain View, CA",180000.0,Sr.
+408,Data Scientist,Aurora Innovation,"Mountain View, CA",99000.0,Unknown
+409,Data Scientist,Foursquare,"Los Angeles, CA",120000.0,Unknown
+410,Data Scientist,Virtualitics,"Pasadena, CA",98000.0,Unknown
+411,Data Scientist,Robinhood,"Menlo Park, CA",130000.0,Staff
+412,Data Scientist,"EDO, Inc","Los Angeles, CA",140000.0,Unknown
+413,Data Science Manager,"TuSimple, Inc.","San Francisco, CA",180000.0,Unknown
+414,Data Scientist,"Happiest Baby, Inc.","Los Angeles, CA",150000.0,Unknown
+415,Data Scientist,Apartment List,,200000.0,Sr.
+416,Machine Learning Scientist,Lily AI,,160000.0,Unknown
+417,Data Scientist,Otter.ai,"Mountain View, CA",170000.0,Sr.
+418,Data Scientist,Ignitech Solutions LLC,"San Francisco, CA",170000.0,Sr.
+419,Data Analyst,"TuSimple, Inc.","Los Angeles, CA",130000.0,Sr.
+420,Data Scientist,RAPP,"San Francisco, CA",150000.0,Unknown
+421,Data Analyst,Intuit,"Mountain View, CA",140000.0,Sr.
+422,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+423,Data Scientist,Aurora Innovation,"San Francisco, CA",110000.0,Unknown
+424,Machine Learning Engineer,TikTok,"Mountain View, CA",170000.0,Lead
+425,Data Scientist,First American,"Santa Ana, CA",120000.0,Unknown
+426,Data Scientist,Foursquare,"Los Angeles, CA",130000.0,Unknown
+427,Software Engineer,MariaDB Corporation Ab,"Redwood City, CA",200000.0,Sr.
+428,Software Engineer,Hurricane Electric,"Fremont, CA",85000.0,Unknown
+429,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+430,Data Scientist,Freedom Financial Network,"San Mateo, CA",98000.0,Unknown
+431,Software Engineer,Roche,"Pleasanton, CA",160000.0,Principal
+432,Data Scientist,Niantic,"Sunnyvale, CA",130000.0,Unknown
+433,Machine Learning Engineer,Plato Systems,"San Carlos, CA",140000.0,Unknown
+434,Data Scientist,SAMBA TV,"San Francisco, CA",130000.0,Unknown
+435,Machine Learning Engineer,"TuSimple, Inc.","Mountain View, CA",190000.0,Sr.
+436,Data Scientist,Momentive,,170000.0,Sr.
+437,Data Science Manager,BBI,"Pittsburg, CA",130000.0,Unknown
+438,Data Analyst,Aquent,"Silicon Valley, CA",150000.0,Sr.
+439,Data Analyst,Cox Communications Inc,"San Diego, CA",100000.0,Sr.
+440,Data Scientist,LendingClub,"San Francisco, CA",140000.0,Unknown
+441,Data Scientist,Woodruff Sawyer,"San Francisco, CA",130000.0,Sr.
+442,Data Scientist,Roche,"Santa Clara, CA",120000.0,Principal
+443,Data Scientist,Anthem,"Sacramento, CA",150000.0,Principal
+444,Data Scientist,Abl Schools,,150000.0,Sr.
+445,Software Engineer,"TuSimple, Inc.","San Francisco, CA",140000.0,Staff
+446,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+447,Data Scientist,Verizon,"Irvine, CA",140000.0,Unknown
+448,Data Scientist,Fitbod,"San Francisco, CA",140000.0,Unknown
+449,Data Scientist,LendingClub,"San Francisco, CA",160000.0,Sr.
+450,Data Scientist,Varo Money,"San Francisco, CA",170000.0,Staff
+451,Data Scientist,Forward Slope Inc.,"San Diego, CA",150000.0,Unknown
+452,Data Science Manager,National General Insurance,"Ontario, CA",120000.0,Unknown
+453,Data Science Manager,Intuitive,"Sunnyvale, CA",160000.0,Unknown
+454,Head of Data Science,Robin Healthcare,,160000.0,Unknown
+455,Software Engineer,"TuSimple, Inc.","Mountain View, CA",140000.0,Unknown
+456,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+457,Data Scientist,CareDx,"Brisbane, CA",150000.0,Unknown
+458,Data Scientist,Brightline,,180000.0,Sr.
+459,Data Scientist,"largeton,inc","Los Angeles, CA",124800.0,Unknown
+460,Data Scientist,Trusaic,,140000.0,Unknown
+461,Data Scientist,Amazon.com Services LLC,"Culver City, CA",,Unknown
+462,Data Scientist,Virtualitics,"Pasadena, CA",120000.0,Unknown
+463,Data Scientist,Recurrency,,150000.0,Unknown
+464,Head of Data Science,Genentech,"San Francisco, CA",110000.0,Unknown
+465,Data Scientist,Activision,"Santa Monica, CA",130000.0,Unknown
+466,Data Scientist,Zuora,,150000.0,Unknown
+467,Data Scientist,Aurora Innovation,"Mountain View, CA",99000.0,Unknown
+468,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+469,Machine Learning Scientist,"TuSimple, Inc.","Mountain View, CA",160000.0,Sr.
+470,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+471,Data Scientist,STAR Labs,"Los Gatos, CA",140000.0,Unknown
+472,Data Analyst,ServiceNow,"Santa Clara, CA",120000.0,Sr.
+473,Data Scientist,JPL/NASA,"Pasadena, CA",150000.0,Staff
+474,Data Scientist,Slack,"San Francisco, CA",,Sr.
+475,Data Analyst,Khan Academy,"Mountain View, CA",110000.0,Unknown
+476,Machine Learning Scientist,GotIt!,"Burlingame, CA",150000.0,Unknown
+477,Machine Learning Scientist,iRhythm Technologies,,160000.0,Sr.
+478,Data Scientist,Experian,"Costa Mesa, CA",120000.0,Unknown
+479,Data Scientist,Novo Technologies Inc,"Modesto, CA",120000.0,Unknown
+480,Data Scientist,CaaStle,"Mountain View, CA",150000.0,Sr.
+481,Data Scientist,Salesforce,"San Francisco, CA",,Sr.
+482,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+483,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+484,Data Scientist,Experian,"Costa Mesa, CA",170000.0,Sr.
+485,Data Scientist,Cloudwick,"Newark, CA",120000.0,Unknown
+486,Data Scientist,Upgrade,"San Francisco, CA",140000.0,Unknown
+487,Data Scientist,Retool,"San Francisco, CA",130000.0,Unknown
+488,Data Scientist,Faire,,130000.0,Unknown
+489,Machine Learning Engineer,Hayden AI Technologies,,190000.0,Unknown
+490,Data Scientist,Ariat International,"Union City, CA",120000.0,Unknown
+491,Data Scientist,Loon,"Mountain View, CA",150000.0,Unknown
+492,Vice President of Data Science,PennyMac,"Westlake Village, CA",160000.0,Unknown
+493,Machine Learning Scientist,Netflix,"Los Gatos, CA",160000.0,Sr.
+494,Data Scientist,Indeed,"Sunnyvale, CA",223000.0,Sr.
+495,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+496,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+497,Machine Learning Engineer,TikTok,"Mountain View, CA",140000.0,Unknown
+498,Data Scientist,Aurora Innovation,"San Francisco, CA",110000.0,Unknown
+499,Data Scientist,CEDENT,"Burbank, CA",110000.0,Sr.
+500,Machine Learning Scientist,Toyota Research Institute,"Los Altos, CA",140000.0,Unknown
+501,Applied Scientist,Ripple,"San Francisco, CA",140000.0,Unknown
+502,Data Scientist,Prealize Health,"Palo Alto, CA",130000.0,Sr.
+503,Data Scientist,John Deere Intelligent Solutions,,170000.0,Lead
+504,Director of Data Science,Next Insurance,"Palo Alto, CA",190000.0,Unknown
+505,Machine Learning Engineer,,,160000.0,Staff
+506,Data Scientist,Robinhood,"Menlo Park, CA",150000.0,Sr.
+507,Data Scientist,Foursquare,"Los Angeles, CA",120000.0,Unknown
+508,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+509,Data Analyst,Cox Communications Inc,"San Diego, CA",100000.0,Sr.
+510,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+511,Data Scientist,Health Net of California,,150000.0,Sr.
+512,Data Scientist,Course Hero,"Redwood City, CA",170000.0,Sr.
+513,Data Scientist,Ethos Life,,160000.0,Sr.
+514,Machine Learning Scientist,Netflix,"Los Gatos, CA",160000.0,Sr.
+515,Data Scientist,Palo Alto Networks,"Santa Clara, CA",140000.0,Staff
+516,Applied Scientist,Afresh,"San Francisco, CA",160000.0,Unknown
+517,Data Scientist,Forward,"San Francisco, CA",110000.0,Unknown
+518,Data Scientist,DocuSign,,130200.0,Unknown
+519,Data Scientist,Rivian Automotive,"Palo Alto, CA",180000.0,Staff
+520,Machine Learning Scientist,HRL Laboratories LLC,"Malibu, CA",140000.0,Unknown
+521,Data Scientist,Aurora Innovation,"Mountain View, CA",99000.0,Unknown
+522,Data Analyst,Cox Communications Inc,"San Diego, CA",100000.0,Sr.
+523,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+524,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+525,Machine Learning Scientist,Atomwise,"San Francisco, CA",160000.0,Sr.
+526,Data Scientist,UC San Diego,"San Diego, CA",96000.0,Unknown
+527,Data Scientist,Shipt,"San Francisco, CA",78000.0,Unknown
+528,Data Scientist,firstlight.ai,"San Diego, CA",160000.0,Sr.
+529,Software Engineer,Netflix,"Los Angeles, CA",180000.0,Sr.
+530,Data Scientist,Circle,,120000.0,Principal
+531,Data Scientist,NBCUniversal,"Universal City, CA",120000.0,Unknown
+532,Data Scientist,Cisco Meraki,,140000.0,Unknown
+533,Data Scientist,Lark Health,,,Sr.
+534,Data Scientist,Accion Opportunity Fund,"San Jose, CA",100000.0,Unknown
+535,Data Scientist,Aurora Innovation,"San Francisco, CA",110000.0,Unknown
+536,Data Science Manager,BBI,"Pittsburg, CA",130000.0,Unknown
+537,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+538,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+539,Data Scientist,Intuitive,"Palo Alto, CA",,Sr.
+540,Data Scientist,"Neomorph, Inc","San Diego, CA",160000.0,Staff
+541,Data Engineer,"DeepMap, Inc","Palo Alto, CA",140000.0,Unknown
+542,Data Scientist,Oura,"San Francisco, CA",150000.0,Unknown
+543,Machine Learning Engineer,Revenue.io,,140000.0,Unknown
+544,Machine Learning Engineer,NVIDIA,,160000.0,Jr.
+545,Data Scientist,Foursquare,"Los Angeles, CA",130000.0,Unknown
+546,Data Scientist,Coda,,180000.0,Sr.
+547,Data Science Manager,Google,"Mountain View, CA",150000.0,Unknown
+548,Machine Learning Engineer,NVIDIA,"Santa Clara, CA",120000.0,Unknown
+549,Data Scientist,Foursquare,"Los Angeles, CA",120000.0,Unknown
+550,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+551,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+552,Data Scientist,Lynx Analytics,"San Francisco, CA",190000.0,Sr.
+553,Data Scientist,Amazon.com Services LLC,"Sunnyvale, CA",,Unknown
+554,Data Scientist,Oracle,,170000.0,Staff
+555,Data Scientist,U.S. Bank,"Cupertino, CA",160000.0,Unknown
+556,Data Scientist,Stanford Health Care,"Redwood City, CA",,Jr.
+557,Data Scientist,Kharon,"Los Angeles, CA",130000.0,Unknown
+558,Machine Learning Scientist,ByteDance,"Mountain View, CA",170000.0,Unknown
+559,Data Scientist,8th Wall,"Palo Alto, CA",110000.0,Unknown
+560,Data Science Manager,TikTok,"Los Angeles, CA",200000.0,Unknown
+561,Data Scientist,PocketPills,"San Francisco, CA",150000.0,Unknown
+562,Applied Scientist,Microsoft,"Sunnyvale, CA",180000.0,Staff
+563,Data Scientist,Oculus Search Partners LLC,"Mountain View, CA",180000.0,Sr.
+564,Data Science Manager,BBI,"Pittsburg, CA",130000.0,Unknown
+565,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+566,Data Scientist,Uber,"San Francisco, CA",150000.0,Staff
+567,Data Engineer,Lynx Analytics,"San Francisco, CA",150000.0,Unknown
+568,Data Scientist,Experian,"Costa Mesa, CA",180000.0,Lead
+569,Data Scientist,Tinder,"West Hollywood, CA",160000.0,Sr.
+570,Machine Learning Engineer,Osmo,"Palo Alto, CA",140000.0,Unknown
+571,Data Scientist,JPL/NASA,"Pasadena, CA",160000.0,Sr.
+572,Data Scientist,PayPal,"San Jose, CA",180000.0,Sr.
+573,Data Scientist,CyberCube,"San Francisco, CA",140000.0,Unknown
+574,Data Scientist,Moveworks,"Mountain View, CA",170000.0,Sr.
+575,Machine Learning Scientist,Niantic,"Sunnyvale, CA",190000.0,Sr.
+576,Data Scientist,PayPal,"San Jose, CA",100000.0,Jr.
+577,Data Science Manager,Cox Communications Inc,"Los Angeles, CA",130000.0,Unknown
+578,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+579,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+580,Data Scientist,Tinder,"Los Angeles, CA",150000.0,Sr.
+581,Data Scientist,TikTok,"Mountain View, CA",120000.0,Unknown
+582,Data Scientist,Aurora Innovation,"Mountain View, CA",160000.0,Jr.
+583,Data Scientist,Instacart,,180000.0,Sr.
+584,Data Scientist,SimplePractice,,160000.0,Sr.
+585,Data Scientist,Signifyd,,180000.0,Sr.
+586,Data Scientist,Cowbell Cyber Inc.,,180000.0,Sr.
+587,Applied Scientist,Microsoft,"Mountain View, CA",140000.0,Staff
+588,Data Scientist,App Annie,,180000.0,Staff
+589,Data Scientist,Jane Technologies,,170000.0,Sr.
+590,Data Scientist,Aurora Innovation,"Mountain View, CA",99000.0,Unknown
+591,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+592,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+593,Data Scientist,Twitch,,190000.0,Sr.
+594,Data Scientist,Sutter Health,"San Carlos, CA",140000.0,Sr.
+595,Data Scientist,f5,"San Jose, CA",130000.0,Staff
+596,Data Scientist,Foursquare,"Los Angeles, CA",130000.0,Unknown
+597,Data Scientist,LendingPoint LLC,"San Mateo, CA",140000.0,Sr.
+598,Data Scientist,Aurora,"Mountain View, CA",160000.0,Jr.
+599,Machine Learning Scientist,GE Corporate,"San Ramon, CA",130000.0,Lead
+600,Data Scientist,opentext,,140000.0,Unknown
+601,Data Scientist,Nauto,"Palo Alto, CA",200000.0,Sr.
+602,Data Scientist,Vivun,"Oakland, CA",130000.0,Unknown
+603,Data Scientist,Philo Inc.,"San Francisco, CA",140000.0,Unknown
+604,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+605,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+606,Data Scientist,Twitch,"San Francisco, CA",160000.0,Sr.
+607,Data Scientist,Nordstrom Inc,"Los Angeles, CA",150000.0,Staff
+608,Director of Data Science,Abbott Laboratories,"Sylmar, CA",190000.0,Unknown
+609,Data Scientist,Blue River Technology,,170000.0,Lead
+610,Data Scientist,MasterCard,"San Francisco, CA",150000.0,Sr.
+611,Data Scientist,AT&T,,160000.0,Unknown
+612,Data Scientist,"Mercedes-Benz Research & Development North America, Inc.","Sunnyvale, CA",140000.0,Unknown
+613,Data Scientist,Abnormal Security,,160000.0,Sr.
+614,Data Scientist,C3 AI,"Redwood City, CA",170000.0,Sr.
+615,Data Scientist,Step Mobile,"Palo Alto, CA",160000.0,Unknown
+616,Data Scientist,Twitch,"San Francisco, CA",160000.0,Sr.
+617,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+618,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+619,Data Scientist,Foursquare,"Los Angeles, CA",120000.0,Unknown
+620,Data Scientist,Abacus.ai,"San Francisco, CA",140000.0,Unknown
+621,Machine Learning Scientist,Nuro,"Mountain View, CA",170000.0,Unknown
+622,Applied Scientist,"Amazon Web Services, Inc.","East Palo Alto, CA",,Unknown
+623,Data Scientist,BICP,"San Francisco, CA",140000.0,Unknown
+624,Machine Learning Engineer,Hewlett Packard Enterprise,,160000.0,Unknown
+625,Data Analyst,Experian,"Costa Mesa, CA",130000.0,Unknown
+626,Data Scientist,California Institute of Technology,"Pasadena, CA",120000.0,Unknown
+627,Machine Learning Scientist,Ford Motor Company,"Palo Alto, CA",140000.0,Unknown
+628,Data Scientist,BlackBerry,"Irvine, CA",150000.0,Unknown
+629,Data Scientist,Niantic,"San Francisco, CA",140000.0,Unknown
+630,Data Science Manager,BBI,"Pittsburg, CA",130000.0,Unknown
+631,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+632,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+633,Data Scientist,Foursquare,"Los Angeles, CA",130000.0,Unknown
+634,Machine Learning Engineer,TikTok,"Mountain View, CA",160000.0,Sr.
+635,Data Science Manager,TikTok,"Los Angeles, CA",130000.0,Unknown
+636,Machine Learning Scientist,Atomwise,"San Francisco, CA",180000.0,Sr.
+637,Data Scientist,Clarify Health Solutions.,"San Francisco, CA",160000.0,Unknown
+638,Machine Learning Scientist,Nuro,"Mountain View, CA",160000.0,Unknown
+639,Data Scientist,EasyPost,"San Francisco, CA",140000.0,Unknown
+640,Data Scientist,Verizon,"Laguna Niguel, CA",160000.0,Unknown
+641,Data Engineer,Argo AI,,150000.0,Unknown
+642,Machine Learning Scientist,Nuro,"Mountain View, CA",160000.0,Unknown
+643,Data Scientist,Thorn,,150000.0,Sr.
+644,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+645,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+646,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+647,Data Scientist,XL Data Corp,"California City, CA",195000.0,Principal
+648,Data Scientist,Chime,"San Francisco, CA",,Lead
+649,Data Scientist,Sift,,150000.0,Unknown
+650,Data Scientist,Pollen,,130000.0,Sr.
+651,Data Scientist,Cloudleaf,,150000.0,Unknown
+652,Data Scientist,VideoAmp Careers Website,,140000.0,Unknown
+653,Data Scientist,Lucid Motors,"Newark, CA",190000.0,Principal
+654,Applied Scientist,Twitch,"San Francisco, CA",170000.0,Sr.
+655,Data Scientist,Figure,,170000.0,Principal
+656,Data Scientist,Frequence,"Mountain View, CA",150000.0,Unknown
+657,Data Scientist,Twitch,"San Francisco, CA",160000.0,Sr.
+658,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+659,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+660,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+661,Data Science Manager,Glassdoor,"San Francisco, CA",195000.0,Unknown
+662,Data Analyst,Roo,"San Francisco, CA",140000.0,Sr.
+663,Software Engineer,Grammarly,,311000.0,Unknown
+664,Data Scientist,NextRoll,,170000.0,Sr.
+665,Data Scientist,MasterClass,"San Francisco, CA",160000.0,Sr.
+666,Machine Learning Scientist,UnitedHealth Group,"Los Angeles, CA",,Unknown
+667,Machine Learning Engineer,PlayStation Global,"San Mateo, CA",150000.0,Staff
+668,Data Analyst,QuestBridge,,88000.0,Unknown
+669,Machine Learning Engineer,TikTok,"Mountain View, CA",130000.0,Unknown
+670,Data Engineer,Moveworks,"Mountain View, CA",190000.0,Sr.
+671,Data Scientist,Twitch,"San Francisco, CA",160000.0,Sr.
+672,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+673,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+674,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+675,Data Scientist,TikTok,"Los Angeles, CA",180000.0,Staff
+676,Machine Learning Engineer,TikTok,"Mountain View, CA",140000.0,Unknown
+677,Data Scientist,Moveworks,,160000.0,Sr.
+678,Data Scientist,PayPal,"San Jose, CA",140000.0,Sr.
+679,Machine Learning Scientist,TikTok,"Mountain View, CA",160000.0,Staff
+680,Data Scientist,Credible,,160000.0,Sr.
+681,Machine Learning Scientist,Baidu USA,"Sunnyvale, CA",180000.0,Unknown
+682,Data Scientist,Inspire,,160000.0,Sr.
+683,Data Scientist,LivePerson,,110000.0,Sr.
+684,Data Scientist,"Amino, Inc.","San Francisco, CA",170000.0,Sr.
+685,Machine Learning Scientist,TikTok,"Mountain View, CA",130000.0,Staff
+686,Data Scientist,Oculus Search Partners LLC,"Mountain View, CA",180000.0,Sr.
+687,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+688,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+689,Machine Learning Engineer,TikTok,"Mountain View, CA",130000.0,Staff
+690,Data Scientist,Niantic,"San Francisco, CA",140000.0,Unknown
+691,Machine Learning Scientist,TikTok,"Mountain View, CA",120000.0,Jr.
+692,Data Scientist,Microsoft,"Sunnyvale, CA",200000.0,Principal
+693,Machine Learning Engineer,iMerit,,78000.0,Unknown
+694,Data Scientist,Crossover Health,"San Clemente, CA",96000.0,Unknown
+695,Software Engineer,Johnson & Johnson Family of Companies,"Los Angeles, CA",160000.0,Lead
+696,Data Engineer,Experian,"Costa Mesa, CA",130000.0,Unknown
+697,Machine Learning Scientist,Motional,"Santa Monica, CA",170000.0,Sr.
+698,Director of Data Science,Netflix,"Los Gatos, CA",210000.0,Unknown
+699,Data Scientist,PayPal,"San Jose, CA",100000.0,Jr.
+700,Data Scientist,Oculus Search Partners LLC,"Mountain View, CA",180000.0,Sr.
+701,Data Science Manager,BBI,"Pittsburg, CA",130000.0,Unknown
+702,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+703,Machine Learning Engineer,TikTok,"Mountain View, CA",110000.0,Unknown
+704,Data Scientist,PayPal,"San Jose, CA",140000.0,Sr.
+705,Machine Learning Engineer,Robinhood,"Menlo Park, CA",180000.0,Unknown
+706,Applied Scientist,Microsoft,"Sunnyvale, CA",160000.0,Sr.
+707,Software Engineer,Ubisoft,"Ontario, CA",110000.0,Unknown
+708,Applied Scientist,JD.com,"Mountain View, CA",160000.0,Unknown
+709,Machine Learning Scientist,Susquehanna International Group,"Alameda, CA",170000.0,Unknown
+710,Machine Learning Scientist,Plus,"Cupertino, CA",150000.0,Unknown
+711,Data Scientist,Reddit,,140000.0,Sr.
+712,Data Scientist,Levi Strauss & Co.,"San Francisco, CA",140000.0,Jr.
+713,Data Scientist,Twitch,"San Francisco, CA",160000.0,Sr.
+714,Data Analyst,Intuit,"Mountain View, CA",140000.0,Sr.
+715,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+716,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+717,Data Scientist,TikTok,"Mountain View, CA",150000.0,Sr.
+718,Data Scientist,Hippo Insurance,"Palo Alto, CA",170000.0,Sr.
+719,Machine Learning Engineer,KelaHealth,"San Francisco, CA",150000.0,Unknown
+720,Data Scientist,Cameo,,170000.0,Sr.
+721,Data Scientist,Transform Data,"San Francisco, CA",160000.0,Unknown
+722,Data Scientist,ISO,"San Francisco, CA",220000.0,Sr.
+723,Data Scientist,Thermo Fisher Scientific,"Carlsbad, CA",160000.0,Sr.
+724,Machine Learning Scientist,TikTok,"Mountain View, CA",170000.0,Jr.
+725,Machine Learning Engineer,Liftoff+Vungle,,150000.0,Unknown
+726,Machine Learning Engineer,Diffbot,"Mountain View, CA",160000.0,Unknown
+727,Machine Learning Engineer,TikTok,"Mountain View, CA",130000.0,Unknown
+728,Software Engineer,"TuSimple, Inc.","San Francisco, CA",140000.0,Unknown
+729,Data Scientist,Oculus Search Partners LLC,"Mountain View, CA",180000.0,Sr.
+730,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+731,Machine Learning Engineer,TikTok,"Mountain View, CA",100000.0,Unknown
+732,Data Scientist,Inland Empire Health Plans,"Rancho Cucamonga, CA",151861.0,Staff
+733,Machine Learning Engineer,TikTok,"Mountain View, CA",160000.0,Staff
+734,Software Engineer,Google,"Mountain View, CA",180000.0,Staff
+735,Applied Scientist,"Twitch Interactive, Inc.","San Francisco, CA",,Sr.
+736,Data Analyst,Electronic Arts,"Redwood City, CA",130000.0,Sr.
+737,Data Scientist,Steady Platform,"Los Angeles, CA",190000.0,Sr.
+738,Data Science Manager,Edwards Lifesciences,"Irvine, CA",173000.0,Unknown
+739,Data Scientist,Johnson & Johnson Family of Companies,"Redwood City, CA",170000.0,Sr.
+740,Data Engineer,NVIDIA,"Santa Clara, CA",170000.0,Sr.
+741,Data Scientist,Philo Inc.,"San Francisco, CA",140000.0,Unknown
+742,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+743,Data Science Manager,"TuSimple, Inc.","San Francisco, CA",180000.0,Unknown
+744,Data Scientist,TikTok,"Mountain View, CA",150000.0,Lead
+745,Applied Scientist,Amazon.com Services LLC,"Santa Monica, CA",,Sr.
+746,Applied Scientist,NVIDIA,"Santa Clara, CA",130000.0,Sr.
+747,Data Scientist,Shift,,180000.0,Sr.
+748,Director of Data Science,Wayfair,"San Francisco, CA",240000.0,Unknown
+749,Data Scientist,Electronic Arts,"Redwood City, CA",190000.0,Lead
+750,Data Scientist,hims & hers,,160000.0,Sr.
+751,Data Scientist,Chime,"San Francisco, CA",,Sr.
+752,Data Scientist,Frequence,"Mountain View, CA",150000.0,Unknown
+753,Software Engineer,Gilead Sciences,"Foster City, CA",82000.0,Unknown
+754,Data Scientist,Niantic,"San Francisco, CA",140000.0,Unknown
+755,Data Analyst,"TuSimple, Inc.","Los Angeles, CA",130000.0,Sr.
+756,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+757,Software Engineer,Hurricane Electric,"Fremont, CA",85000.0,Unknown
+758,Data Scientist,Thumbtack,,150000.0,Staff
+759,Data Scientist,First Republic Bank,"San Francisco, CA",140000.0,Unknown
+760,Data Scientist,Databricks,"San Francisco, CA",150000.0,Staff
+761,Data Scientist,Zscaler,"San Jose, CA",150000.0,Staff
+762,Data Science Manager,Atlassian,"Mountain View, CA",160000.0,Unknown
+763,Machine Learning Scientist,Amazon.com Services LLC,"San Francisco, CA",,Unknown
+764,Data Scientist,Getty Images,"San Francisco, CA",140000.0,Unknown
+765,Data Scientist,C3 AI,"Redwood City, CA",190000.0,Sr.
+766,Machine Learning Engineer,Numerade,,160000.0,Sr.
+767,Machine Learning Engineer,TikTok,"Mountain View, CA",170000.0,Lead
+768,Machine Learning Engineer,TikTok,"Mountain View, CA",140000.0,Unknown
+769,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+770,Software Engineer,"TuSimple, Inc.","San Jose, CA",120000.0,Staff
+771,Data Scientist,Wayfair,"San Francisco, CA",180000.0,Staff
+772,Data Scientist,Calico,"South San Francisco, CA",210000.0,Sr.
+773,Data Scientist,Orbital Sidekick,"San Francisco, CA",160000.0,Unknown
+774,Data Scientist,"Sense Talent Labs, Inc.","San Francisco, CA",130000.0,Unknown
+775,Data Analyst,Cash App,,120000.0,Sr.
+776,Data Scientist,99,"Mountain View, CA",140000.0,Unknown
+777,Data Scientist,Facebook App,"San Francisco, CA",140000.0,Unknown
+778,Head of Data Science,PlayStation Global,"San Francisco, CA",170000.0,Unknown
+779,Machine Learning Engineer,TikTok,"Mountain View, CA",170000.0,Jr.
+780,Data Scientist,Wish,"San Francisco, CA",130000.0,Unknown
+781,Data Scientist,Philo Inc.,"San Francisco, CA",140000.0,Unknown
+782,Data Analyst,Aquent,"Silicon Valley, CA",150000.0,Sr.
+783,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+784,Machine Learning Scientist,Netflix,"Los Angeles, CA",170000.0,Sr.
+785,Data Scientist,Verizon,"Irvine, CA",170000.0,Principal
+786,Data Scientist,Freedom Financial Network,"San Mateo, CA",150000.0,Sr.
+787,Software Engineer,Williams Sonoma,"San Francisco, CA",180000.0,Unknown
+788,Machine Learning Scientist,ByteDance,"Mountain View, CA",110000.0,Lead
+789,Data Science Manager,Uber,"San Francisco, CA",180000.0,Unknown
+790,Data Scientist,"Chronus Health, Inc.","Mountain View, CA",140000.0,Sr.
+791,Data Scientist,Shutterfly,"Redwood City, CA",190000.0,Principal
+792,Applied Scientist,Uber,"San Francisco, CA",150000.0,Staff
+793,Data Scientist,Avanade,"San Diego, CA",140000.0,Unknown
+794,Data Scientist,Albertsons Companies,"Pleasanton, CA",170000.0,Unknown
+795,Machine Learning Scientist,"TuSimple, Inc.","Mountain View, CA",160000.0,Sr.
+796,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+797,Data Scientist,NVIDIA,"Santa Clara, CA",140000.0,Unknown
+798,Data Scientist,BOLD,,160000.0,Unknown
+799,Data Scientist,Snapchat,"San Francisco, CA",160000.0,Sr.
+800,Machine Learning Scientist,Verana Health,,150000.0,Unknown
+801,Data Analyst,TMC Software,"Cupertino, CA",,Sr.
+802,Data Science Manager,Google,"Mountain View, CA",120000.0,Unknown
+803,Data Scientist,NVIDIA,"Santa Clara, CA",180000.0,Sr.
+804,Software Engineer,Kodiak Robotics,"Mountain View, CA",160000.0,Jr.
+805,Data Scientist,Instagram,"San Francisco, CA",120000.0,Jr.
+806,Data Scientist,Earnin,"Palo Alto, CA",160000.0,Sr.
+807,Data Scientist,Foursquare,"Los Angeles, CA",120000.0,Unknown
+808,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+809,Data Science Manager,Intuitive,"Sunnyvale, CA",160000.0,Unknown
+810,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+811,Data Analyst,Google,"Sunnyvale, CA",150000.0,Lead
+812,Data Scientist,Google,"Mountain View, CA",160000.0,Lead
+813,Data Scientist,PG&E Corporation,"San Francisco, CA",170000.0,Sr.
+814,Data Scientist,Akamai,"San Francisco, CA",160000.0,Sr.
+815,Data Scientist,EVB,"San Mateo, CA",160000.0,Sr.
+816,Statistician,UCLA Health,"Los Angeles, CA",110000.0,Sr.
+817,Data Scientist,Genentech,"Los Angeles, CA",195000.0,Principal
+818,Machine Learning Scientist,Plus,"Cupertino, CA",180000.0,Sr.
+819,Machine Learning Scientist,Intellimize,,160000.0,Principal
+820,Data Science Manager,Shipt,"San Francisco, CA",180000.0,Unknown
+821,Data Scientist,Intuitive,"Palo Alto, CA",,Sr.
+822,Data Science Manager,National General Insurance,"Ontario, CA",120000.0,Unknown
+823,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+824,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+825,Machine Learning Engineer,TikTok,"Mountain View, CA",140000.0,Unknown
+826,Data Scientist,Frequence,"Mountain View, CA",150000.0,Unknown
+827,Data Scientist,Shipt,"San Francisco, CA",160000.0,Unknown
+828,Applied Scientist,Amazon.com Services LLC,"Palo Alto, CA",,Sr.
+829,Data Scientist,Snowflake,"San Mateo, CA",160000.0,Sr.
+830,Data Scientist,Transcarent,,170000.0,Sr.
+831,Machine Learning Scientist,ByteDance,"Mountain View, CA",130000.0,Jr.
+832,Data Scientist,Spin,,160000.0,Sr.
+833,Machine Learning Engineer,ByteDance,"Mountain View, CA",180000.0,Unknown
+834,Data Scientist,Legion,,180000.0,Sr.
+835,Data Scientist,Foursquare,"Los Angeles, CA",130000.0,Unknown
+836,Data Science Manager,National General Insurance,"Ontario, CA",120000.0,Unknown
+837,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+838,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+839,Data Scientist,Loon,"Mountain View, CA",140000.0,Jr.
+840,Data Scientist,Foursquare,"Los Angeles, CA",180000.0,Sr.
+841,Data Scientist,ZineOne,"Milpitas, CA",170000.0,Sr.
+842,Statistician,UCLA,"Los Angeles, CA",,Sr.
+843,Machine Learning Scientist,Lily AI,"Mountain View, CA",150000.0,Unknown
+844,Data Scientist,Ezoic,"Carlsbad, CA",160000.0,Sr.
+845,Data Scientist,Cowbell Cyber Inc.,,160000.0,Staff
+846,Data Scientist,Clarivate Analytics,"San Francisco, CA",150000.0,Sr.
+847,Data Scientist,Empower Retirement,,181200.0,Sr.
+848,Data Scientist,Plus Power,"San Francisco, CA",190000.0,Sr.
+849,Data Scientist,Tonal,"San Francisco, CA",140000.0,Sr.
+850,Software Engineer,"TuSimple, Inc.","Los Angeles, CA",120000.0,Staff
+851,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+852,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+853,Data Analyst,BOEING,"El Segundo, CA",164970.0,Sr.
+854,Head of Data Science,TikTok,"Mountain View, CA",190000.0,Unknown
+855,Data Scientist,The Clorox Company,"Pleasanton, CA",170000.0,Sr.
+856,Data Science Manager,Visa,"Foster City, CA",170000.0,Unknown
+857,Machine Learning Engineer,Netflix,"Los Gatos, CA",180000.0,Sr.
+858,Data Scientist,Discord,"San Francisco, CA",150000.0,Sr.
+859,Data Scientist,Albertsons Companies,"Pleasanton, CA",180000.0,Sr.
+860,Data Analyst,Khan Academy,"Mountain View, CA",140000.0,Sr.
+861,Data Scientist,Wish,"San Francisco, CA",150000.0,Sr.
+862,Data Scientist,Intuitive,"Palo Alto, CA",,Sr.
+863,Software Engineer,"TuSimple, Inc.","San Jose, CA",120000.0,Staff
+864,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+865,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+866,Head of Data Science,Discord,"San Francisco, CA",200000.0,Unknown
+867,Data Scientist,PayPal,"San Jose, CA",140000.0,Unknown
+868,Software Engineer,GoFundMe,"Redwood City, CA",170000.0,Staff
+869,Data Scientist,Johnson & Johnson Family of Companies,"San Diego, CA",160000.0,Sr.
+870,Data Scientist,Blink Health,,160000.0,Sr.
+871,Machine Learning Engineer,Illumina,"San Francisco Bay Area, CA",140000.0,Staff
+872,Data Scientist,Northrop Grumman,"San Diego, CA",167400.0,Sr.
+873,Data Scientist,Infogen Labs,"Valencia, CA",120000.0,Unknown
+874,Data Scientist,Experian,"Costa Mesa, CA",130000.0,Sr.
+875,Data Scientist,Velodyne,"San Jose, CA",170000.0,Staff
+876,Data Scientist,Philo Inc.,"San Francisco, CA",140000.0,Unknown
+877,Data Scientist,Oculus Search Partners LLC,"Mountain View, CA",180000.0,Sr.
+878,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+879,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+880,Data Scientist,Frequence,"Mountain View, CA",150000.0,Unknown
+881,Data Science Manager,Facebook App,"Menlo Park, CA",200000.0,Unknown
+882,Data Scientist,Onto Innovation,"Milpitas, CA",170000.0,Sr.
+883,Data Scientist,Resonance AI,"San Francisco, CA",140000.0,Unknown
+884,Data Scientist,Surya Systems,"San Francisco, CA",150000.0,Unknown
+885,Software Engineer,Black Sesame Technologies Inc,"San Jose, CA",140000.0,Jr.
+886,Applied Scientist,Amazon.com Services LLC,"Santa Clara, CA",,Unknown
+887,Data Scientist,eHealth,"San Francisco, CA",170000.0,Lead
+888,Data Scientist,Shipt,"San Francisco, CA",150000.0,Sr.
+889,Data Scientist,Oura,"San Francisco, CA",160000.0,Unknown
+890,Data Scientist,Taboola,"Los Angeles, CA",170000.0,Sr.
+891,Software Engineer,"TuSimple, Inc.","San Jose, CA",120000.0,Staff
+892,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+893,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+894,Data Scientist,Foursquare,"Los Angeles, CA",120000.0,Unknown
+895,Data Scientist,Robinhood,"Menlo Park, CA",160000.0,Sr.
+896,Data Scientist,Facebook App,"San Francisco, CA",150000.0,Unknown
+897,Data Scientist,SetSail,,170000.0,Lead
+898,Data Scientist,"OpsRamp, Inc.","San Jose, CA",170000.0,Principal
+899,Data Scientist,LiveRamp,"San Francisco, CA",170000.0,Sr.
+900,Data Scientist,Gap Inc.,"San Francisco, CA",,Sr.
+901,Data Scientist,RAPP,"Los Angeles, CA",180000.0,Lead
+902,Machine Learning Scientist,Lily AI,"Mountain View, CA",160000.0,Unknown
+903,Data Scientist,Rivian Automotive,"Irvine, CA",160000.0,Sr.
+904,Machine Learning Engineer,Procore Technologies,,190000.0,Principal
+905,Machine Learning Engineer,"TuSimple, Inc.","Mountain View, CA",190000.0,Sr.
+906,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+907,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+908,Data Scientist,Robinhood,"Menlo Park, CA",130000.0,Sr.
+909,Data Scientist,Ginger,"San Francisco, CA",170000.0,Sr.
+910,Data Scientist,Slate Technologies,"San Francisco, CA",170000.0,Sr.
+911,Machine Learning Engineer,Tinder,"San Francisco, CA",160000.0,Unknown
+912,Data Scientist,Toyota Research Institute,"Los Altos, CA",170000.0,Sr.
+913,Applied Scientist,CooTek,"Mountain View, CA",110000.0,Unknown
+914,Machine Learning Engineer,TuSimple,"San Diego, CA",150000.0,Unknown
+915,Data Scientist,Dexcom,"San Diego, CA",170000.0,Sr.
+916,Data Scientist,Twitch,"San Francisco, CA",150000.0,Unknown
+917,Data Scientist,Geli,"San Francisco, CA",160000.0,Sr.
+918,Data Scientist,Geli,"San Francisco, CA",120000.0,Staff
+919,Software Engineer,"TuSimple, Inc.","Los Angeles, CA",140000.0,Unknown
+920,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+921,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+922,Data Scientist,Foursquare,"Los Angeles, CA",130000.0,Unknown
+923,Machine Learning Engineer,Postclick,,210000.0,Principal
+924,Data Scientist,Woven Planet Level 5,"Palo Alto, CA",130000.0,Unknown
+925,Machine Learning Scientist,Whip Media,"Los Angeles, CA",190000.0,Sr.
+926,Machine Learning Engineer,Prove,,170000.0,Sr.
+927,Data Scientist,ZL Technologies,"Milpitas, CA",170000.0,Unknown
+928,Machine Learning Engineer,Diffbot,"Menlo Park, CA",160000.0,Unknown
+929,Data Scientist,ICW Group,"San Diego, CA",150000.0,Unknown
+930,Data Scientist,Aquabyte,"San Francisco, CA",190000.0,Sr.
+931,Data Scientist,Doma,,150000.0,Sr.
+932,Director of Data Science,Instacart,,190000.0,Unknown
+933,Data Science Manager,National General Insurance,"Ontario, CA",120000.0,Unknown
+934,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+935,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+936,Data Scientist,Foursquare,"Los Angeles, CA",120000.0,Unknown
+937,Data Scientist,Mynurse.ai,"Emeryville, CA",150000.0,Unknown
+938,Machine Learning Engineer,Bosch Group,"Sunnyvale, CA",170000.0,Unknown
+939,Software Engineer,Nuro,"Mountain View, CA",150000.0,Jr.
+940,Data Scientist,Shutterfly,"Redwood City, CA",150000.0,Sr.
+941,Data Scientist,Opendoor,"San Francisco Bay Area, CA",160000.0,Sr.
+942,Data Scientist,StreetLight Data,"San Francisco, CA",140000.0,Unknown
+943,Data Scientist,Procore Technologies,"Carpinteria, CA",180000.0,Sr.
+944,Data Scientist,The Aerospace Corporation,"El Segundo, CA",120000.0,Unknown
+945,Data Scientist,Freedom Financial Network,"San Mateo, CA",120000.0,Staff
+946,Data Scientist,MasterClass,"San Francisco, CA",170000.0,Sr.
+947,Software Engineer,"TuSimple, Inc.","Mountain View, CA",140000.0,Unknown
+948,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+949,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+950,Machine Learning Engineer,Nauto,"Palo Alto, CA",180000.0,Sr.
+951,Data Scientist,"Deserve, Inc.","Palo Alto, CA",130000.0,Unknown
+952,Data Scientist,Bayer,"Berkeley, CA",150000.0,Unknown
+953,Data Scientist,Faire,,140000.0,Sr.
+954,Machine Learning Engineer,XPeng Motors,"Mountain View, CA",150000.0,Jr.
+955,Data Scientist,Manifest Medex,"Emeryville, CA",130000.0,Unknown
+956,Data Scientist,ScaleMonk,"Palo Alto, CA",150000.0,Unknown
+957,Data Scientist,Tapcart,"Santa Monica, CA",150000.0,Sr.
+958,Data Scientist,Pinnacle Group,"El Segundo, CA",,Principal
+959,Data Analyst,Dollar Shave Club,"Marina del Rey, CA",130000.0,Sr.
+960,Data Scientist,Foursquare,"Los Angeles, CA",130000.0,Unknown
+961,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+962,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+963,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+964,Data Analyst,ClassDojo,,140000.0,Sr.
+965,Data Scientist,Plume,,160000.0,Sr.
+966,Data Scientist,Edmunds.com,"Santa Monica, CA",66000.0,Unknown
+967,Data Scientist,Intel,"Folsom, CA",150000.0,Unknown
+968,Data Scientist,f5,"San Jose, CA",170000.0,Sr.
+969,Data Scientist,AE Studio,"Venice, CA",120000.0,Unknown
+970,Data Analyst,Khan Academy,"Mountain View, CA",170000.0,Sr.
+971,Applied Scientist,CooTek,"Mountain View, CA",130000.0,Principal
+972,Head of Data Science,Parallel Bio,"Los Angeles, CA",220000.0,Unknown
+973,Data Scientist,23andMe,"Sunnyvale, CA",150000.0,Unknown
+974,Machine Learning Scientist,HRL Laboratories LLC,"Malibu, CA",160000.0,Jr.
+975,Software Engineer,"TuSimple, Inc.","San Jose, CA",120000.0,Staff
+976,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+977,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+978,Data Scientist,Wish,"San Francisco, CA",140000.0,Unknown
+979,Data Scientist,Dynamic Solutions Technology LLC,"San Diego, CA",130000.0,Sr.
+980,Data Scientist,"Big Data Federation, Inc.","San Jose, CA",140000.0,Sr.
+981,Applied Scientist,Amazon.com Services LLC,"Sunnyvale, CA",,Unknown
+982,Data Scientist,BXGI,"Palo Alto, CA",190000.0,Principal
+983,Data Scientist,Amgen,"Thousand Oaks, CA",,Principal
+984,Data Science Manager,Hulu,"Santa Monica, CA",180000.0,Unknown
+985,Data Scientist,LendingClub,"San Francisco, CA",150000.0,Unknown
+986,Data Scientist,TeraWatt Infrastructure,"San Francisco, CA",100000.0,Unknown
+987,Data Scientist,"Amazon Web Services, Inc.","East Palo Alto, CA",,Unknown
+988,Applied Scientist,Amazon.com Services LLC,"Santa Barbara, CA",,Sr.
+989,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+990,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+991,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+992,Data Scientist,Varo Money,"San Francisco, CA",150000.0,Staff
+993,Applied Scientist,Amazon.com Services LLC,"Santa Monica, CA",,Jr.
+994,Data Scientist,Facebook App,"Menlo Park, CA",140000.0,Unknown
+995,Data Scientist,Talent Search PRO,"San Francisco, CA",180000.0,Sr.
+996,Data Scientist,Experian,"Costa Mesa, CA",120000.0,Unknown
+997,Data Scientist,Riva Health,,160000.0,Sr.
+998,Data Scientist,Afterpay Touch,"San Francisco, CA",170000.0,Sr.
+999,Data Architect,NVIDIA,"Santa Clara, CA",190000.0,Distinguished
+1000,Applied Scientist,Amazon.com Services LLC,"Palo Alto, CA",,Unknown
+1001,Data Scientist,Facebook App,"Menlo Park, CA",130000.0,Unknown
+1002,Data Scientist,Itron,"San Jose, CA",140000.0,Principal
+1003,Software Engineer,"TuSimple, Inc.","San Jose, CA",120000.0,Staff
+1004,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1005,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1006,Data Architect,Aisera,"Palo Alto, CA",210000.0,Unknown
+1007,Data Scientist,Zest AI,"Burbank, CA",180000.0,Lead
+1008,Data Scientist,Fox Corporation,"Los Angeles, CA",170000.0,Sr.
+1009,Data Scientist,Wayfair,"San Francisco, CA",190000.0,Sr.
+1010,Data Scientist,MasterClass,"San Francisco, CA",160000.0,Sr.
+1011,Software Engineer,Discord,,200000.0,Sr.
+1012,Director of Data Science,MasterClass,"San Francisco, CA",210000.0,Unknown
+1013,Data Science Manager,Uber,"San Francisco, CA",160000.0,Unknown
+1014,Machine Learning Scientist,ByteDance,"Mountain View, CA",160000.0,Staff
+1015,Data Scientist,Recurly,"San Francisco, CA",190000.0,Sr.
+1016,Data Scientist,Adobe,"San Jose, CA",160000.0,Staff
+1017,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+1018,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1019,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1020,Software Engineer,Genentech,"Pleasanton, CA",150000.0,Principal
+1021,Machine Learning Engineer,Shift,,140000.0,Unknown
+1022,Applied Scientist,Amazon.com Services LLC,"Palo Alto, CA",,Principal
+1023,Data Scientist,Engage3,"Davis, CA",140000.0,Unknown
+1024,Machine Learning Scientist,JD.com,"Mountain View, CA",150000.0,Unknown
+1025,Machine Learning Engineer,Roku,"San Jose, CA",180000.0,Sr.
+1026,Data Scientist,Rivian Automotive,"Irvine, CA",180000.0,Sr.
+1027,Data Scientist,DiDi Labs,"Mountain View, CA",120000.0,Unknown
+1028,Data Scientist,Sofar Ocean,,130000.0,Unknown
+1029,Data Analyst,Snapchat,"Los Angeles, CA",110000.0,Sr.
+1030,Data Scientist,Lucid Motors,"Newark, CA",170000.0,Sr.
+1031,Data Science Manager,BBI,"Pittsburg, CA",130000.0,Unknown
+1032,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1033,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1034,Data Scientist,Recruiting From Scratch,"San Francisco, CA",180000.0,Unknown
+1035,Data Scientist,Uber,"San Francisco, CA",110000.0,Unknown
+1036,Data Scientist,Transcarent,,150000.0,Unknown
+1037,Data Science Manager,Shopify,"Fresno, CA",180000.0,Unknown
+1038,Data Scientist,HG Insights,,140000.0,Unknown
+1039,Data Scientist,Gayathri's Sandbox,"Menlo Park, CA",100000.0,Unknown
+1040,Software Engineer,CrowdRise,"Redwood City, CA",170000.0,Staff
+1041,Data Scientist,Colsh Consultants,"Santa Clara, CA",120000.0,Unknown
+1042,Data Scientist,MOLOCO,"Redwood City, CA",130000.0,Unknown
+1043,Data Scientist,Meredith Corporation,"Los Angeles, CA",140000.0,Unknown
+1044,Data Scientist,Rhombus Power,"Mountain View, CA",140000.0,Unknown
+1045,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1046,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1047,Data Science Manager,Sojern,"San Francisco, CA",180000.0,Unknown
+1048,Machine Learning Scientist,Motional,"Santa Monica, CA",140000.0,Sr.
+1049,Data Scientist,J.D. Power,,140000.0,Unknown
+1050,Data Scientist,Rubicon,"Sacramento, CA",130000.0,Unknown
+1051,Data Science Manager,Hippo Insurance,"Palo Alto, CA",170000.0,Unknown
+1052,Data Scientist,Teknatio,"Menlo Park, CA",130000.0,Unknown
+1053,Data Scientist,Getty Images,"San Francisco, CA",180000.0,Sr.
+1054,Data Scientist,Groove.co,"San Francisco, CA",180000.0,Sr.
+1055,Machine Learning Engineer,Cisco Meraki,,150000.0,Unknown
+1056,Data Scientist,ServiceNow,"Santa Clara, CA",150000.0,Sr.
+1057,Machine Learning Engineer,Synopsys,,180000.0,Sr.
+1058,Software Engineer,"TuSimple, Inc.",,150000.0,Jr.
+1059,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1060,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1061,Data Scientist,"AWM Smart Shelf (Adroit Worldwide Media, Inc.)","Aliso Viejo, CA",160000.0,Lead
+1062,Data Scientist,"ICW Group Holdings, Inc","San Diego, CA",150000.0,Unknown
+1063,Data Scientist,Joby Aviation,"Santa Cruz, CA",170000.0,Unknown
+1064,Data Science Manager,Gilead Sciences,"Foster City, CA",160000.0,Unknown
+1065,Data Scientist,Bristol Myers Squibb,"Redwood City, CA",200000.0,Sr.
+1066,Data Scientist,Singularity 6,"Los Angeles, CA",190000.0,Sr.
+1067,Data Analyst,"Mission Analytics Group, Inc.","San Francisco, CA",99000.0,Unknown
+1068,Data Scientist,Amazon.com Services LLC,"Santa Clara, CA",,Unknown
+1069,Data Scientist,UCLA,"Los Angeles, CA",,Unknown
+1070,Machine Learning Engineer,NVIDIA,,140000.0,Unknown
+1071,Data Scientist,Shipt,"San Francisco, CA",140000.0,Sr.
+1072,Data Science Manager,"TuSimple, Inc.","San Francisco, CA",180000.0,Unknown
+1073,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1074,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1075,Applied Scientist,Amazon.com Services LLC,"Sunnyvale, CA",,Sr.
+1076,Data Scientist,Amazon.com Services LLC,"Santa Monica, CA",,Sr.
+1077,Machine Learning Engineer,Linqia,"San Francisco, CA",160000.0,Unknown
+1078,Data Scientist,Atreca,"San Carlos, CA",130000.0,Unknown
+1079,Machine Learning Scientist,TuSimple,"San Diego, CA",140000.0,Sr.
+1080,Data Science Manager,PlayStation Global,"San Mateo, CA",160000.0,Unknown
+1081,Machine Learning Engineer,Segula Technologies,"Mountain View, CA",160000.0,Unknown
+1082,Data Scientist,One Medical,,110000.0,Jr.
+1083,Machine Learning Engineer,MCG Health,,160000.0,Sr.
+1084,Director of Data Science,Narvar,,200000.0,Unknown
+1085,Data Scientist,Denali Therapeutics,"South San Francisco, CA",130000.0,Sr.
+1086,Software Engineer,Hurricane Electric,"Fremont, CA",85000.0,Unknown
+1087,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1088,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1089,Data Engineer,Decipher Biosciences,"San Diego, CA",120000.0,Unknown
+1090,Data Scientist,Health Net of California,"Woodland Hills, CA",150000.0,Sr.
+1091,Data Science Manager,C3 AI,"Redwood City, CA",190000.0,Unknown
+1092,Data Scientist,Seer,"Redwood City, CA",120000.0,Unknown
+1093,Machine Learning Scientist,Spring Discovery,"San Carlos, CA",150000.0,Unknown
+1094,Data Analyst,Opendoor,"San Francisco Bay Area, CA",130000.0,Sr.
+1095,Data Analyst,Woebot Health,"San Francisco, CA",130000.0,Sr.
+1096,Data Scientist,Labcorp,"San Diego, CA",,Sr.
+1097,Machine Learning Scientist,Tempus,"Redwood City, CA",150000.0,Jr.
+1098,Machine Learning Engineer,Terrafuse AI,"San Francisco, CA",170000.0,Unknown
+1099,Machine Learning Engineer,Tesseract,,170000.0,Jr.
+1100,Data Analyst,Intuit,"Mountain View, CA",140000.0,Sr.
+1101,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1102,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1103,Data Scientist,CHEP,"Santa Clara, CA",170000.0,Unknown
+1104,Machine Learning Engineer,"DeepMap, Inc","Palo Alto, CA",190000.0,Staff
+1105,Data Scientist,Shopify,"San Francisco, CA",160000.0,Sr.
+1106,Data Scientist,DeepVu,"Berkeley, CA",160000.0,Unknown
+1107,Machine Learning Scientist,"BrainChip, Inc.","Aliso Viejo, CA",150000.0,Unknown
+1108,Machine Learning Engineer,Hive,"San Francisco, CA",180000.0,Sr.
+1109,Machine Learning Engineer,Suki.ai,"Redwood City, CA",203221.0,Sr.
+1110,Machine Learning Scientist,TikTok,"Mountain View, CA",120000.0,Staff
+1111,Machine Learning Engineer,Matroid,"Palo Alto, CA",130000.0,Unknown
+1112,Data Science Manager,Reddit,,220000.0,Unknown
+1113,Data Scientist,3T Biosciences,"South San Francisco, CA",140000.0,Unknown
+1114,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1115,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1116,Data Scientist,ELT Solutions,"San Jose, CA",110000.0,Unknown
+1117,Data Scientist,"Exagen, Inc.","Vista, CA",140000.0,Staff
+1118,Data Scientist,Shipt,"San Francisco, CA",140000.0,Sr.
+1119,Data Science Manager,Invitae,,170000.0,Unknown
+1120,Software Engineer,PlayStation Global,"Aliso Viejo, CA",180000.0,Sr.
+1121,Software Engineer,Ask Media Group,,160000.0,Unknown
+1122,Applied Scientist,"Amazon Dev Center U.S., Inc.","Santa Clara, CA",,Unknown
+1123,Data Scientist,AlignTech,"San Jose, CA",170000.0,Sr.
+1124,Machine Learning Engineer,Pinterest,"San Francisco, CA",140000.0,Unknown
+1125,Machine Learning Engineer,Williams Sonoma,"San Francisco, CA",190000.0,Lead
+1126,Machine Learning Engineer,TikTok,"Mountain View, CA",130000.0,Unknown
+1127,Data Analyst,Aquent,"Silicon Valley, CA",150000.0,Sr.
+1128,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1129,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1130,Data Scientist,Foursquare,"Los Angeles, CA",120000.0,Unknown
+1131,Data Scientist,"Amazon Web Services, Inc.",,,Sr.
+1132,Software Engineer,Discord,,200000.0,Sr.
+1133,Machine Learning Engineer,Nextdoor,"San Francisco, CA",160000.0,Jr.
+1134,Data Science Manager,Kyte,"San Francisco, CA",190000.0,Unknown
+1135,Data Science Manager,Hulu,"Santa Monica, CA",180000.0,Unknown
+1136,Data Scientist,Forward,"San Francisco, CA",130000.0,Unknown
+1137,Machine Learning Engineer,TikTok,"Mountain View, CA",110000.0,Unknown
+1138,Machine Learning Scientist,Mirati Therapeutics Inc,"San Diego, CA",83000.0,Staff
+1139,Data Scientist,Experian,"Costa Mesa, CA",120000.0,Unknown
+1140,Machine Learning Engineer,TikTok,"Mountain View, CA",120000.0,Jr.
+1141,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1142,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1143,Data Scientist,Shopify,"Long Beach, CA",160000.0,Sr.
+1144,Software Engineer,Ripple,"San Francisco, CA",180000.0,Sr.
+1145,Applied Scientist,Uber,"San Francisco, CA",150000.0,Sr.
+1146,Data Architect,Aisera,"Palo Alto, CA",210000.0,Unknown
+1147,Data Science Manager,Sojern,"San Francisco, CA",180000.0,Unknown
+1148,Software Engineer,Kodiak Robotics,"Mountain View, CA",160000.0,Jr.
+1149,Data Scientist,Shipt,"San Francisco, CA",180000.0,Sr.
+1150,Data Scientist,City of Hope,"Irwindale, CA",,Sr.
+1151,Data Scientist,Facebook App,"Menlo Park, CA",190000.0,Jr.
+1152,Data Science Manager,Uber,"San Francisco, CA",160000.0,Unknown
+1153,Data Engineer,Cloudleaf,,170000.0,Sr.
+1154,Machine Learning Scientist,"TuSimple, Inc.","Mountain View, CA",160000.0,Sr.
+1155,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1156,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1157,Data Analyst,ServiceNow,"Santa Clara, CA",120000.0,Sr.
+1158,Data Analyst,Oneida ESC Group,"Ventura, CA",110000.0,Principal
+1159,Machine Learning Engineer,Matroid,"Palo Alto, CA",130000.0,Unknown
+1160,Vice President of Data Science,Keewi,"Santa Clara, CA",130000.0,Unknown
+1161,Data Science Manager,Uber,"San Francisco, CA",150000.0,Unknown
+1162,Applied Scientist,"Twitch Interactive, Inc.","San Francisco, CA",,Sr.
+1163,Data Scientist,Experian,"Costa Mesa, CA",120000.0,Unknown
+1164,Data Scientist,Facebook App,"Menlo Park, CA",170000.0,Lead
+1165,Data Scientist,Centene Corporation,"San Francisco, CA",150000.0,Sr.
+1166,Data Scientist,Amazon.com Services LLC,"Santa Monica, CA",,Sr.
+1167,Machine Learning Engineer,TikTok,"Mountain View, CA",130000.0,Unknown
+1168,Software Engineer,"TuSimple, Inc.","San Francisco, CA",160000.0,Jr.
+1169,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1170,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1171,Director of Data Science,Indeed,"San Francisco, CA",434000.0,Unknown
+1172,Software Engineer,Exai Bio Inc,"Palo Alto, CA",130000.0,Unknown
+1173,Data Analyst,Wayfair,"San Francisco, CA",130000.0,Sr.
+1174,Machine Learning Engineer,Discord,"San Francisco, CA",160000.0,Staff
+1175,Data Analyst,Cash App,,120000.0,Sr.
+1176,Machine Learning Engineer,Pinterest,"Palo Alto, CA",120000.0,Unknown
+1177,Data Engineer,Route,"Los Angeles, CA",180000.0,Unknown
+1178,Machine Learning Engineer,FieldLevel,,150000.0,Sr.
+1179,Machine Learning Engineer,Abnormal Security,,160000.0,Sr.
+1180,Data Scientist,Extend,"San Francisco, CA",160000.0,Unknown
+1181,Data Scientist,Facebook App,"Burlingame, CA",210000.0,Unknown
+1182,Software Engineer,"TuSimple, Inc.","San Francisco, CA",160000.0,Jr.
+1183,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1184,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1185,Data Scientist,Cardlytics,"Los Angeles, CA",180000.0,Lead
+1186,Data Scientist,The Yes,"San Francisco Bay Area, CA",120000.0,Unknown
+1187,Data Science Manager,Foursquare,"Los Angeles, CA",160000.0,Unknown
+1188,Director of Data Science,Prosper,"San Francisco, CA",190000.0,Unknown
+1189,Machine Learning Engineer,NVIDIA,,140000.0,Unknown
+1190,Machine Learning Engineer,Terrafuse AI,"San Francisco, CA",170000.0,Unknown
+1191,Machine Learning Scientist,Spring Discovery,"San Carlos, CA",150000.0,Unknown
+1192,Machine Learning Engineer,Cobalt Robotics,"San Mateo, CA",130000.0,Jr.
+1193,Machine Learning Engineer,NEXT Trucking,,160000.0,Sr.
+1194,Data Science Manager,Nuro,"Mountain View, CA",180000.0,Unknown
+1195,Machine Learning Engineer,Cisco Meraki,,150000.0,Unknown
+1196,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1197,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1198,Software Engineer,Black Sesame Technologies Inc,"San Jose, CA",140000.0,Jr.
+1199,Machine Learning Engineer,Aurora Innovation,"Mountain View, CA",150000.0,Unknown
+1200,Software Engineer,Groq,,140000.0,Unknown
+1201,Data Scientist,STAR Labs,"Los Gatos, CA",140000.0,Unknown
+1202,Machine Learning Engineer,PlayStation Global,"San Francisco, CA",180000.0,Unknown
+1203,Data Scientist,Osair Technologies,"San Francisco, CA",87360.0,Jr.
+1204,Director of Data Science,Narvar,,200000.0,Unknown
+1205,Machine Learning Engineer,Instacart,,160000.0,Staff
+1206,Data Scientist,Intel,"Folsom, CA",150000.0,Unknown
+1207,Data Scientist,ViaSat,"Carlsbad, CA",120000.0,Unknown
+1208,Data Scientist,f5,"San Jose, CA",130000.0,Staff
+1209,Software Engineer,"TuSimple, Inc.","San Francisco, CA",160000.0,Jr.
+1210,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1211,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1212,Machine Learning Engineer,Instacart,,160000.0,Staff
+1213,Data Scientist,Shipt,"San Francisco, CA",160000.0,Sr.
+1214,Machine Learning Engineer,MCG Health,,160000.0,Sr.
+1215,Data Analyst,Platform Science,,130000.0,Staff
+1216,Data Analyst,REDICA Systems,"Pleasanton, CA",59000.0,Jr.
+1217,Data Engineer,Argo AI,,170000.0,Sr.
+1218,Machine Learning Scientist,Salesforce,,,Principal
+1219,Machine Learning Scientist,aiXplain,"Los Gatos, CA",180000.0,Unknown
+1220,Data Scientist,MobilityWare,"Irvine, CA",140000.0,Unknown
+1221,Software Engineer,Black Sesame Technologies Inc,"San Jose, CA",140000.0,Jr.
+1222,Data Scientist,sharethrough,"Los Angeles, CA",120000.0,Unknown
+1223,Software Engineer,"TuSimple, Inc.","San Francisco, CA",160000.0,Jr.
+1224,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1225,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1226,Data Scientist,Getty Images,"San Francisco, CA",200000.0,Sr.
+1227,Data Science Manager,Hippo Insurance,"Palo Alto, CA",170000.0,Unknown
+1228,Machine Learning Engineer,TikTok,"Mountain View, CA",170000.0,Jr.
+1229,Machine Learning Scientist,SLAC National Accelerator Laboratory,"Menlo Park, CA",150000.0,Staff
+1230,Applied Scientist,Amazon.com Services LLC,"Palo Alto, CA",,Sr.
+1231,Machine Learning Scientist,ByteDance,"Mountain View, CA",160000.0,Unknown
+1232,Data Scientist,Accenture,"San Francisco, CA",190000.0,Unknown
+1233,Director of Data Science,Workato,,180000.0,Unknown
+1234,Data Scientist,Dropbox,,140000.0,Sr.
+1235,Machine Learning Engineer,Hive,"San Francisco, CA",180000.0,Sr.
+1236,Applied Scientist,Amazon.com Services LLC,"Santa Monica, CA",,Jr.
+1237,Data Science Manager,Intuitive,"Sunnyvale, CA",160000.0,Unknown
+1238,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1239,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1240,Data Scientist,Johnson & Johnson Family of Companies,"San Francisco, CA",150000.0,Sr.
+1241,Director of Data Science,Narvar,,200000.0,Unknown
+1242,Machine Learning Scientist,"BrainChip, Inc.","Aliso Viejo, CA",150000.0,Unknown
+1243,Software Engineer,Ericsson,"Santa Clara, CA",170000.0,Sr.
+1244,Software Engineer,AstraZeneca,"South San Francisco, CA",,Sr.
+1245,Data Scientist,Xerox,"Palo Alto, CA",180000.0,Principal
+1246,Machine Learning Engineer,Williams Sonoma,"San Francisco, CA",190000.0,Lead
+1247,Applied Scientist,Amazon.com Services LLC,"Sunnyvale, CA",,Sr.
+1248,Applied Scientist,Amazon.com Services LLC,"Santa Clara, CA",,Unknown
+1249,Data Science Manager,Prosper,"San Francisco, CA",160000.0,Unknown
+1250,Data Scientist,Lawrence Berkeley National Laboratory,"San Francisco Bay Area, CA",,Jr.
+1251,Data Science Manager,Cox Communications Inc,"Los Angeles, CA",130000.0,Unknown
+1252,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1253,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1254,Data Science Manager,Tonal,"San Francisco, CA",140000.0,Unknown
+1255,Data Scientist,Amazon.com Services LLC,"Santa Monica, CA",,Sr.
+1256,Data Scientist,"Amazon Web Services, Inc.",,,Unknown
+1257,Data Scientist,Cogitativo,"Berkeley, CA",170000.0,Sr.
+1258,Data Scientist,"Mission Support and Test Services, LLC","Santa Barbara, CA",140000.0,Sr.
+1259,Software Engineer,"TuSimple, Inc.","San Francisco, CA",160000.0,Jr.
+1260,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1261,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1262,Machine Learning Engineer,Uber,"Palo Alto, CA",160000.0,Staff
+1263,Software Engineer,Sift,,130000.0,Unknown
+1264,Machine Learning Scientist,aiXplain,"Los Gatos, CA",180000.0,Unknown
+1265,Software Engineer,Google,"Mountain View, CA",130000.0,Sr.
+1266,Data Scientist,Exponent,"Menlo Park, CA",170000.0,Sr.
+1267,Applied Scientist,Uber,"San Francisco, CA",160000.0,Sr.
+1268,Data Science Manager,Google,"Mountain View, CA",150000.0,Unknown
+1269,Data Science Manager,Foursquare,"Los Angeles, CA",160000.0,Unknown
+1270,Data Analyst,MediaAlpha,,120000.0,Sr.
+1271,Data Architect,NVIDIA,"Santa Clara, CA",170000.0,Sr.
+1272,Data Scientist,FortressIQ,"San Francisco, CA",160000.0,Sr.
+1273,Data Science Manager,National General Insurance,"Ontario, CA",120000.0,Unknown
+1274,Data Engineer,Intuitive,"Sunnyvale, CA",130000.0,Sr.
+1275,Machine Learning Scientist,"TuSimple, Inc.","San Francisco, CA",160000.0,Sr.
+1276,Data Scientist,Evernote,,110000.0,Unknown
+1277,Machine Learning Engineer,Abnormal Security,,160000.0,Sr.
+1278,Machine Learning Engineer,Datatron Technologies,,200000.0,Sr.
+1279,Data Scientist,Weee! Inc,"Fremont, CA",140000.0,Unknown
+1280,Statistician,UCLA Health,"Los Angeles, CA",86000.0,Unknown
+1281,Data Scientist,Atlassian,"Mountain View, CA",180000.0,Principal
+1282,Data Scientist,PayPal,"San Jose, CA",82000.0,Unknown
+1283,Software Engineer,NVIDIA,"Santa Clara, CA",160000.0,Sr.
+1284,Data Scientist,Afterpay Touch,"San Francisco, CA",130000.0,Staff
+1285,Director of Data Science,Anthem,"San Francisco, CA",200000.0,Unknown
+1286,Data Scientist,Philo Inc.,"San Francisco, CA",140000.0,Unknown
