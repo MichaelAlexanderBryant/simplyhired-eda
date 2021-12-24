@@ -103,7 +103,7 @@ Below are a few selected figures found in EDA.ipynb:
 </figure>
 </div>
 
-## Conclusions
+## Conclusion
 
 ## Resources
 
