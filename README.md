@@ -103,6 +103,8 @@ Below are a few selected figures found in EDA.ipynb:
 </figure>
 </div>
 
+## Conclusions
+
 ## Resources
 
 1. [PlayingNumbers/ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
