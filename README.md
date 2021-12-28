@@ -46,7 +46,7 @@ The following changes were made to the non-imputed dataframes:
 
 ## EDA
 
-Below are a few selected figures found in EDA.ipynb:
+Below are selected figures from EDA.ipynb:
 
 <div align="center">
 <figure>
