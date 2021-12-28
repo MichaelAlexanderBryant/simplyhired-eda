@@ -50,7 +50,7 @@ Below are a few selected figures found in EDA.ipynb:
 
 <div align="center">
 <figure>
-<img src="images/salary-dist.jpg"><br/>
+<img src="images/salary-distribution.jpg"><br/>
   <figcaption>Figure 1: Boxplots for salaries by job title.</figcaption>
 </figure>
 </div>
@@ -60,7 +60,7 @@ Below are a few selected figures found in EDA.ipynb:
 
 <div align="center">
 <figure>
-<img src="images/salary-difference.jpg"><br/>
+<img src="images/salary-impact.jpg"><br/>
   <figcaption>Figure 2: Statistically significant predictors from ordinary least squares analysis and their impact on salary.</figcaption>
 </figure>
 </div>
