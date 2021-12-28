@@ -61,7 +61,7 @@ Below are selected figures from EDA.ipynb:
 <div align="center">
 <figure>
 <img src="images/OLS-results.jpg"><br/>
-  <figcaption>Figure 2: Statistically significant predictors from ordinary least squares analysis and their impact on salary. These are changes to salary relative to the baseline of $172,100 for an Applied Scientist working at 23andMe in Alameda, CA with a Distinguished experience level.</figcaption>
+  <figcaption>Figure 2: Statistically significant predictors from ordinary least squares analysis and their impact on salary.</figcaption>
 </figure>
 </div>
 
