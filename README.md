@@ -70,4 +70,5 @@ Below are selected figures from EDA.ipynb:
 ## Resources
 
 1. [PlayingNumbers/ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
-2. [Chi-square test diagram](https://www.isixsigma.com/dictionary/chi-square-test/)
+2. An Introduction to Statistical Learning by James, Witten, Hastie, and Tibshirani
+3. [Chi-square test diagram](https://www.isixsigma.com/dictionary/chi-square-test/)
