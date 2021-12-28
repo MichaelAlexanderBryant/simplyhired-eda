@@ -70,3 +70,4 @@ Below are selected figures from EDA.ipynb:
 ## Resources
 
 1. [PlayingNumbers/ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
+2. [Chi-square test diagram](https://www.isixsigma.com/dictionary/chi-square-test/)
