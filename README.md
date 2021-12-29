@@ -70,4 +70,5 @@ Below are selected figures from EDA.ipynb:
 1. [PlayingNumbers/ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
 2. Show Me the Numbers (Second Edition) by Stephen Few
 3. An Introduction to Statistical Learning (Second Edition) by Gareth James, Daniela Witten, Trevor Hastie, and Rob Tibshirani
-4. [Chi-square test diagram](https://www.isixsigma.com/dictionary/chi-square-test/)
+4. [Testing assumptions of linear regression](https://towardsdatascience.com/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0)
+5. [Chi-square test diagram](https://www.isixsigma.com/dictionary/chi-square-test/)
