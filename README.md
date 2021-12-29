@@ -1,4 +1,4 @@
-# SimplyHired Data Science Jobs EDA
+# SimplyHired Data Science Jobs EDA and OLS Analysis
 
 This repository is for the analysis of data science jobs posted to the website [SimplyHired](https://www.simplyhired.com/). Below you will find an overview of the data collection, data cleaning, and exploratory data analysis results. I created this project to help me understand the types of jobs in data science, their qualifications and benefits, locations, and salary ranges.
 
@@ -20,7 +20,11 @@ This Python script cleans the raw_data.csv file. The output of this file are two
 
 ### EDA.ipynb
 
-This Jupyter Notebook file contains the exploratory data analysis of the cleaned data (without imputation) and the OLS analysis (of the imputed data).
+This Jupyter Notebook file contains the exploratory data analysis of the cleaned data (without imputation).
+
+### OLS_Analysis.ipynb
+
+This Jupyter Notebook file contains the OLS analysis (of the imputed data).
 
 ## Data Collection
 
