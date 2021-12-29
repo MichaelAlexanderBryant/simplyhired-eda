@@ -24,7 +24,7 @@ This Jupyter Notebook file contains the exploratory data analysis of the cleaned
 
 ## Data Collection
 
-The data was collected on December 17, 2021. The postings were from Aug 17, 2021 and Dec 17, 2021. The total number of postings collected was 1342. Although SimplyHired claimed there were more postings, the number of pages was limited to 99 which corresponds to 1342 postings.
+The data was collected on December 17, 2021. The postings were from Aug 17, 2021 and Dec 17, 2021. The total number of postings collected was 1342. The number of pages was limited to 99 which corresponds to 1342 postings.
 
 ## Data Cleaning
 
