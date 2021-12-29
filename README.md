@@ -29,7 +29,7 @@ The data was collected on December 17, 2021. The postings were from Aug 17, 2021
 ## Data Cleaning
 
 The following changes were made to the scraped data prior to imputation:
-* job titles were broken into "Levels" column (which included levels such as "Jr." and "Sr.") and "Title" column (which included titles such as "Data Scientist" and "Data Analyst"),
+* job titles were broken into a "Levels" column (which included experience levels such as "Jr." and "Sr.") and a "Title" column (which included titles such as "Data Scientist" and "Data Analyst"),
 * company rating was removed from the company name,
 * job postings with which were not specific to California were removed,
 * job postings which did not specify a city were assigned to NaN for Location,
