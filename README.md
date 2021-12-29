@@ -67,7 +67,7 @@ Below are selected figures from EDA.ipynb:
 
 ## Resources
 
-1. Inspiration: [PlayingNumbers/ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
-2. Data visualizations: Show Me the Numbers (Second Edition) by Stephen Few
-3. OLS and multiple testing: An Introduction to Statistical Learning (Second Edition) by Gareth James, Daniela Witten, Trevor Hastie, and Rob Tibshirani
-4. Chi-square test diagram: [isixsigma.com](https://www.isixsigma.com/dictionary/chi-square-test/)
+1. [PlayingNumbers/ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
+2. Show Me the Numbers (Second Edition) by Stephen Few
+3. An Introduction to Statistical Learning (Second Edition) by Gareth James, Daniela Witten, Trevor Hastie, and Rob Tibshirani
+4. [Chi-square test diagram](https://www.isixsigma.com/dictionary/chi-square-test/)
