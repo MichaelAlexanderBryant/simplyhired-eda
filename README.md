@@ -70,6 +70,6 @@ Below are selected figures from EDA.ipynb:
 ## Resources
 
 1. [PlayingNumbers/ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
-2. Show Me the Numbers by Stephen Few
-3. An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, and Rob Tibshirani
+2. Show Me the Numbers (Second Edition) by Stephen Few
+3. An Introduction to Statistical Learning (Second Edition) by Gareth James, Daniela Witten, Trevor Hastie, and Rob Tibshirani
 4. [Chi-square test diagram](https://www.isixsigma.com/dictionary/chi-square-test/)
