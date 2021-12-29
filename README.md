@@ -57,15 +57,12 @@ Below are selected figures from EDA.ipynb:
 </figure>
 </div>
 
-</br>
-</br>
-
 
 ## OLS Analysis
 
 <div align="center">
 <figure>
-<img src="images/OLS-results.jpg"><br/>
+<img src="images/significant-salary.jpg"><br/>
   <figcaption>Figure 2: Statistically significant predictors from ordinary least squares analysis and their impact on salary.</figcaption>
 </figure>
 </div>
