@@ -48,8 +48,6 @@ The following changes were made to the non-imputed dataframes for the OLS analys
 
 ## EDA
 
-Below are selected figures from EDA.ipynb:
-
 <div align="center">
 <figure>
 <img src="images/job-titles-salary.jpg"><br/>
