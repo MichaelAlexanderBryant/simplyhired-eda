@@ -53,17 +53,7 @@ Below are selected figures from EDA.ipynb:
 <div align="center">
 <figure>
 <img src="images/job-titles-salary.jpg"><br/>
-  <figcaption>Figure 1: Boxplots for salaries by job title sorted by median in descending order.</figcaption>
-</figure>
-</div>
-
-</br>
-</br>
-
-<div align="center">
-<figure>
-<img src="images/title-qualifications.jpg"><br/>
-  <figcaption>Figure 2: Barplots of the most commonly asked for qualifications for each job title.</figcaption>
+  <figcaption>Figure 1: Boxplots for salaries by job title.</figcaption>
 </figure>
 </div>
 
@@ -73,7 +63,7 @@ Below are selected figures from EDA.ipynb:
 <div align="center">
 <figure>
 <img src="images/significant-salary.jpg"><br/>
-  <figcaption>Figure 3: Statistically significant predictors from ordinary least squares analysis and their impact on salary.</figcaption>
+  <figcaption>Figure 2: Statistically significant predictors from ordinary least squares analysis and their impact on salary.</figcaption>
 </figure>
 </div>
 
