@@ -56,6 +56,9 @@ Below are selected figures from EDA.ipynb:
 </br>
 </br>
 
+
+## OLS Analysis
+
 <div align="center">
 <figure>
 <img src="images/OLS-results.jpg"><br/>
