@@ -52,7 +52,7 @@ Below are selected figures from EDA.ipynb:
 
 <div align="center">
 <figure>
-<img src="images/salary-distribution.jpg"><br/>
+<img src="images/job-titles-salary.jpg"><br/>
   <figcaption>Figure 1: Boxplots for salaries by job title sorted by median in descending order.</figcaption>
 </figure>
 </div>
