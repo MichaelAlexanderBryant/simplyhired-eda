@@ -77,8 +77,6 @@ Below are selected figures from EDA.ipynb:
 </figure>
 </div>
 
-## Conclusion
-
 ## Resources
 
 1. [PlayingNumbers/ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
