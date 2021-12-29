@@ -57,13 +57,23 @@ Below are selected figures from EDA.ipynb:
 </figure>
 </div>
 
+</br>
+</br>
+
+<div align="center">
+<figure>
+<img src="images/title-qualifications.jpg"><br/>
+  <figcaption>Figure 2: Barplots of the most commonly asked for qualifications for each job title.</figcaption>
+</figure>
+</div>
+
 
 ## OLS Analysis
 
 <div align="center">
 <figure>
 <img src="images/significant-salary.jpg"><br/>
-  <figcaption>Figure 2: Statistically significant predictors from ordinary least squares analysis and their impact on salary.</figcaption>
+  <figcaption>Figure 3: Statistically significant predictors from ordinary least squares analysis and their impact on salary.</figcaption>
 </figure>
 </div>
 
