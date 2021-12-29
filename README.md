@@ -30,15 +30,15 @@ The data was collected on December 17, 2021. The postings were from Aug 17, 2021
 
 The following changes were made to the scraped data prior to imputation:
 * job titles were broken into a "Levels" column (which included experience levels such as "Jr." and "Sr.") and a "Title" column (which included titles such as "Data Scientist" and "Data Analyst"),
-* company rating was removed from the company name,
-* job postings with which were not specific to California were removed,
-* job postings which did not specify a city were assigned to NaN for Location,
+* company ratings were removed from the company names,
+* job postings which were not specific to California were removed,
+* job postings which did not specify a city were assigned an NaN for Location,
 * text and symbols were removed from salaries, a single digit salary was calculated where ranges were given, and hourly salaries were converted to annual, and
 * benefits and qualifications were seperated from each other, and two binary matrices were created with each column corresponding to a different benefit or qualification.
 
 The non-imputed cleaned dataframes were then exported for EDA.
 
-The following changes were made to the non-imputed dataframes:
+The following changes were made to the non-imputed dataframes for the OLS analysis:
 * missing company, location, and qualifications were imputed using SimpleImputer set to "most_frequent", and
 * missing salary was imputed using KNNImputer where the optimal parameters were determined using the non-missing data and KNeighborsRegressor.
 
