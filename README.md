@@ -1,4 +1,4 @@
-# SimplyHired Data Science Jobs EDA and OLS Analysis
+# SimplyHired Data Science Jobs EDA
 
 This repository is for the analysis of data science jobs posted to the website [SimplyHired](https://www.simplyhired.com/). Below you will find an overview of the data collection, data cleaning, and exploratory data analysis results. I created this project to help me understand the types of jobs in data science, their qualifications and benefits, locations, and salary ranges.
 
