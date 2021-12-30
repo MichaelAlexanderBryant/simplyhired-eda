@@ -61,4 +61,5 @@ The following changes were made to the non-imputed dataframes for the OLS analys
 2. Show Me the Numbers (Second Edition) by Stephen Few
 3. An Introduction to Statistical Learning (Second Edition) by Gareth James, Daniela Witten, Trevor Hastie, and Rob Tibshirani
 4. [Testing assumptions of linear regression](https://towardsdatascience.com/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0)
-5. [Chi-square test diagram](https://www.isixsigma.com/dictionary/chi-square-test/)
+5. [Testing assumptions of linear regression in Python](https://jeffmacaluso.github.io/post/LinearRegressionAssumptions/)
+6. [Chi-square test diagram](https://www.isixsigma.com/dictionary/chi-square-test/)
