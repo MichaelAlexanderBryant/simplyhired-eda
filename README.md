@@ -63,3 +63,4 @@ The following changes were made to the non-imputed dataframes for the OLS analys
 4. [Testing assumptions of linear regression](https://towardsdatascience.com/verifying-the-assumptions-of-linear-regression-in-python-and-r-f4cd2907d4c0)
 5. [Testing assumptions of linear regression in Python](https://jeffmacaluso.github.io/post/LinearRegressionAssumptions/)
 6. [Chi-square test diagram](https://www.isixsigma.com/dictionary/chi-square-test/)
+7. [Linear regression assumptions](https://www.analyticsvidhya.com/blog/2016/07/deeper-regression-analysis-assumptions-plots-solutions/)
