@@ -55,16 +55,6 @@ The following changes were made to the non-imputed dataframes for the OLS analys
 </figure>
 </div>
 
-
-## OLS Analysis
-
-<div align="center">
-<figure>
-<img src="images/significant-salary.jpg"><br/>
-  <figcaption>Figure 2: Statistically significant predictors from ordinary least squares analysis and their impact on salary.</figcaption>
-</figure>
-</div>
-
 ## Resources
 
 1. [PlayingNumbers/ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
