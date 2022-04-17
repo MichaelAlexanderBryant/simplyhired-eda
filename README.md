@@ -73,7 +73,7 @@ The years of experience required to become a Data Scientist was more ambiguous t
 <div align="center">
 <figure>
 <img src="cropped_images/bar_title_level_2_snipped.jpg"><br/>
-  <figcaption>Figure 3: Barplot for experience level distribution for Data Scientist and Data Analyst roles.</figcaption>
+  <figcaption>Figure 3: Barplot for experience level distribution for Data Scientist and Data Analyst roles.<br/></figcaption>
 </figure>
 </div>
 
