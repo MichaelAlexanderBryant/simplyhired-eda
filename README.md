@@ -20,11 +20,11 @@ This Python script cleans the raw_data.csv file. The output of this file are two
 
 ### EDA.ipynb
 
-This Jupyter Notebook file contains the exploratory data analysis of the cleaned data (without imputation).
+This Jupyter Notebook file contains the exploratory data analysis of the non-imputed clean data.
 
 ### OLS_Analysis.ipynb
 
-This Jupyter Notebook file contains the OLS analysis (of the imputed data).
+This Jupyter Notebook file contains the OLS analysis.
 
 ## Data Collection
 
