@@ -58,7 +58,7 @@ Below are some of the highlights from the EDA. Since I am primarily interested i
   <figcaption>Figure 1: Boxplots for salaries by job title.</figcaption>
 </figure>
 </div>
-
+<br/><br/>
 For the Data Scientist role the mean salary is $147K and median salary is $150K whereas for the Data Analyst role the mean salary is $123K and median salary is $130K. There were eight times as many job postings for Data Scientists than for Data Analysts.
 
 <div align="center">
@@ -67,7 +67,7 @@ For the Data Scientist role the mean salary is $147K and median salary is $150K 
   <figcaption>Figure 2: Distribution of salaries for Data Scientist and Data Analyst roles.</figcaption>
 </figure>
 </div>
-
+<br/><br/>
 The years of experience required to become a Data Scientist was more ambiguous than it was for the Data Analyst role. Most companies are looking to hire experienced Data Scientists and Data Analysts with 35% of Data Scientist posts and 71% of Data Analyst posts looking for Senior-level applicants.
 
 <div align="center">
@@ -85,7 +85,7 @@ The number one skill that companies are looking for in Data Scientists and Data 
   <figcaption>Figure 4: Barplots of most frequently mentioned skills for Data Scientist and Data Analyst roles.</figcaption>
 </figure>
 </div>
-
+<br/><br/>
 The companies with the most posts for Data Scientists are TikTok (4%) and Foursquare (3%), and for Data Analysts are Intuit (11%) and Aquent (11%). 
 
 <div align="center">
@@ -94,7 +94,7 @@ The companies with the most posts for Data Scientists are TikTok (4%) and Foursq
   <figcaption>Figure 5: Barplots of the most frequent companies hiring for Data Scientist and Data Analyst roles.</figcaption>
 </figure>
 </div>
-
+<br/><br/>
 The salaries are above the national average for these roles because the majority of positions are located in areas of high living expense. 28% of Data Scientist job posts are from San Francisco, 10% from Mountain View, and 8% from Los Angeles. For Data Analyst posts, 15% are from Mountain View and 11% are from San Francisco. 
 
 <div align="center">
@@ -103,7 +103,7 @@ The salaries are above the national average for these roles because the majority
   <figcaption>Figure 6: Barplots of the most frequent locations of companies hiring for Data Scientist and Data Analyst roles.</figcaption>
 </figure>
 </div>
-
+<br/><br/>
 Finally, the job benefits were similar for both Data Scientists and Data Analysts with health insurance, dental insurance, 401(k), and paid time off being the top four most frequently offered for both.
 
 <div align="center">
@@ -112,7 +112,7 @@ Finally, the job benefits were similar for both Data Scientists and Data Analyst
   <figcaption>Figure 7: Barplots of the most frequent benefits offered by companires hiring for Data Scientist and Data Analyst roles.</figcaption>
 </figure>
 </div>
-
+<br/><br/>
 ## Resources
 
 1. [PlayingNumbers/ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
