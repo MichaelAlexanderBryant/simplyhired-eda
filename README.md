@@ -59,6 +59,13 @@ Below are some of the highlights from the EDA. Since I am primarily interested i
 
 <div align="center">
 <figure>
+<img src="cropped_images/hist_title_salary_snipped.jpg"><br/>
+  <figcaption>Figure #: </figcaption>
+</figure>
+</div>
+
+<div align="center">
+<figure>
 <img src="cropped_images/bar_title_level_snipped.jpg"><br/>
   <figcaption>Figure #: </figcaption>
 </figure>
@@ -88,13 +95,6 @@ Below are some of the highlights from the EDA. Since I am primarily interested i
 <div align="center">
 <figure>
 <img src="cropped_images/barh_title_skills_snipped.jpg"><br/>
-  <figcaption>Figure #: </figcaption>
-</figure>
-</div>
-
-<div align="center">
-<figure>
-<img src="cropped_images/hist_title_salary_snipped.jpg"><br/>
   <figcaption>Figure #: </figcaption>
 </figure>
 </div>
