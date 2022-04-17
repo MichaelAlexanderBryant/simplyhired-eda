@@ -51,6 +51,8 @@ The following changes were made to the non-imputed dataframes for the OLS analys
 ## EDA
 
 Below are some of the highlights from the EDA. Since I am primarily interested in Data Analyst and Data Scientist roles, this is what the selected figures present. Other roles can be found either in the EDA.ipynb Jupyter Notebook or output/eda folder.
+
+
 <br/><br/>
 <div align="center">
 <figure>
@@ -59,7 +61,10 @@ Below are some of the highlights from the EDA. Since I am primarily interested i
 </figure>
 </div>
 <br/><br/>
+
 For the Data Scientist role the mean salary is $147K and median salary is $150K whereas for the Data Analyst role the mean salary is $123K and median salary is $130K. There were eight times as many job postings for Data Scientists than for Data Analysts.
+
+
 <br/><br/>
 <div align="center">
 <figure>
@@ -68,7 +73,37 @@ For the Data Scientist role the mean salary is $147K and median salary is $150K 
 </figure>
 </div>
 <br/><br/>
+
+
+The number one skill that companies are looking for in Data Scientists and Data Analysts is SQL. 63% of Data Scientist job posts and 72% of Data Analyst job posts mention SQL. Other top technical skills mentioned by Data Scientist posts are C (39%), R (36%), machine learning (28%), and Python (20%). Other top technical skills mentioned by Data Analyst posts are C (39%), Tableau (37%), R (35%), analysis skills (33%), Microsoft Excel (21%), and data visualization (21%). The educational barrier of entry for Data Scientist roles is higher than the Data Analyst. The most frequently required level of education for the Data Scientist roles is a Master's degree (with 48% mentioning the degree) followed closely by a Doctoral degree (40%) and Bachelors degree (40%). In contrast, for Data Analyst roles 56% of posts mention a Bachelor's degree and only 33% mention a Master's degree. 
+
+
+<br/><br/>
+<div align="center">
+<figure>
+<img src="cropped_images/barh_title_skills_snipped.jpg"><br/>
+  <figcaption>Figure 3: Barplots of most frequently mentioned skills for Data Scientist and Data Analyst roles.</figcaption>
+</figure>
+</div>
+<br/><br/>
+
+
+The job benefits were similar for both Data Scientists and Data Analysts with health insurance, dental insurance, 401(k), and paid time off being the top four most frequently offered for both.
+
+<br/><br/>
+<div align="center">
+<figure>
+<img src="cropped_images/barh_title_benefits_snipped.jpg"><br/>
+  <figcaption>Figure 4: Barplots of the most frequent benefits offered by companires hiring for Data Scientist and Data Analyst roles.</figcaption>
+</figure>
+</div>
+<br/><br/>
+
+
+
 The years of experience required to become a Data Scientist was more ambiguous than it was for the Data Analyst role. Most companies are looking to hire experienced Data Scientists and Data Analysts with 35% of Data Scientist posts and 71% of Data Analyst posts looking for Senior-level applicants.
+
+
 <br/><br/>
 <div align="center">
 <figure>
@@ -77,14 +112,11 @@ The years of experience required to become a Data Scientist was more ambiguous t
 </figure>
 </div>
 <br/><br/>
-The number one skill that companies are looking for in Data Scientists and Data Analysts is SQL. 63% of Data Scientist job posts and 72% of Data Analyst job posts mention SQL. Other top technical skills mentioned by Data Scientist posts are C (39%), R (36%), machine learning (28%), and Python (20%). Other top technical skills mentioned by Data Analyst posts are C (39%), Tableau (37%), R (35%), analysis skills (33%), Microsoft Excel (21%), and data visualization (21%). The educational barrier of entry for Data Scientist roles is higher than the Data Analyst. The most frequently required level of education for the Data Scientist roles is a Master's degree (with 48% mentioning the degree) followed closely by a Doctoral degree (40%) and Bachelors degree (40%). In contrast, for Data Analyst roles 56% of posts mention a Bachelor's degree and only 33% mention a Master's degree. 
-<br/><br/>
-<div align="center">
-<figure>
-<img src="cropped_images/barh_title_skills_snipped.jpg"><br/>
-  <figcaption>Figure 4: Barplots of most frequently mentioned skills for Data Scientist and Data Analyst roles.</figcaption>
-</figure>
-</div>
+
+
+
+
+
 <br/><br/>
 The companies with the most posts for Data Scientists are TikTok (4%) and Foursquare (3%), and for Data Analysts are Intuit (11%) and Aquent (11%). 
 <br/><br/>
@@ -95,7 +127,11 @@ The companies with the most posts for Data Scientists are TikTok (4%) and Foursq
 </figure>
 </div>
 <br/><br/>
-The salaries are above the national average for these roles because the majority of positions are located in areas of high living expense. 28% of Data Scientist job posts are from San Francisco, 10% from Mountain View, and 8% from Los Angeles. For Data Analyst posts, 15% are from Mountain View and 11% are from San Francisco. 
+
+
+The salaries are above the national average for these roles because the majority of positions are located in areas of high living expense. 28% of Data Scientist job posts are from San Francisco, 10% from Mountain View, and 8% from Los Angeles. For Data Analyst posts, 15% are from Mountain View and 11% are from San Francisco.
+
+
 <br/><br/>
 <div align="center">
 <figure>
@@ -104,15 +140,7 @@ The salaries are above the national average for these roles because the majority
 </figure>
 </div>
 <br/><br/>
-Finally, the job benefits were similar for both Data Scientists and Data Analysts with health insurance, dental insurance, 401(k), and paid time off being the top four most frequently offered for both.
-<br/><br/>
-<div align="center">
-<figure>
-<img src="cropped_images/barh_title_benefits_snipped.jpg"><br/>
-  <figcaption>Figure 7: Barplots of the most frequent benefits offered by companires hiring for Data Scientist and Data Analyst roles.</figcaption>
-</figure>
-</div>
-<br/><br/>
+
 ## Resources
 
 1. [PlayingNumbers/ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
