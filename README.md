@@ -57,6 +57,48 @@ Below are some of the highlights from the EDA. Since I am primarily interested i
 </figure>
 </div>
 
+<div align="center">
+<figure>
+<img src="cropped_images/bar_title_level_snipped.jpg"><br/>
+  <figcaption>Figure #: </figcaption>
+</figure>
+</div>
+
+<div align="center">
+<figure>
+<img src="cropped_images/barh_title_benefits_snipped.jpg"><br/>
+  <figcaption>Figure #: </figcaption>
+</figure>
+</div>
+
+<div align="center">
+<figure>
+<img src="cropped_images/barh_title_company_snipped.jpg"><br/>
+  <figcaption>Figure #: </figcaption>
+</figure>
+</div>
+
+<div align="center">
+<figure>
+<img src="cropped_images/barh_title_location_snipped.jpg"><br/>
+  <figcaption>Figure #: </figcaption>
+</figure>
+</div>
+
+<div align="center">
+<figure>
+<img src="cropped_images/barh_title_skills_snipped.jpg"><br/>
+  <figcaption>Figure #: </figcaption>
+</figure>
+</div>
+
+<div align="center">
+<figure>
+<img src="cropped_images/hist_title_salary_snipped.jpg"><br/>
+  <figcaption>Figure #: </figcaption>
+</figure>
+</div>
+
 ## Resources
 
 1. [PlayingNumbers/ds_salary_proj](https://github.com/PlayingNumbers/ds_salary_proj)
