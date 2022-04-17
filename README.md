@@ -50,7 +50,7 @@ The following changes were made to the non-imputed dataframes for the OLS analys
 
 <div align="center">
 <figure>
-<img src="images/job-titles-salary.jpg"><br/>
+<img src="output/eda/boxplot_title_salary.jpg"><br/>
   <figcaption>Figure 1: Boxplots for salaries by job title.</figcaption>
 </figure>
 </div>
