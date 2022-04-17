@@ -108,26 +108,10 @@ The years of experience required to become a Data Scientist was more ambiguous t
 <div align="center">
 <figure>
 <img src="cropped_images/bar_title_level_2_snipped.jpg"><br/>
-  <figcaption>Figure 3: Barplot for experience level distribution for Data Scientist and Data Analyst roles.</figcaption>
+  <figcaption>Figure 5: Barplot for experience level distribution for Data Scientist and Data Analyst roles.</figcaption>
 </figure>
 </div>
 <br/><br/>
-
-
-
-
-
-<br/><br/>
-The companies with the most posts for Data Scientists are TikTok (4%) and Foursquare (3%), and for Data Analysts are Intuit (11%) and Aquent (11%). 
-<br/><br/>
-<div align="center">
-<figure>
-<img src="cropped_images/barh_title_company_snipped.jpg"><br/>
-  <figcaption>Figure 5: Barplots of the most frequent companies hiring for Data Scientist and Data Analyst roles.</figcaption>
-</figure>
-</div>
-<br/><br/>
-
 
 The salaries are above the national average for these roles because the majority of positions are located in areas of high living expense. 28% of Data Scientist job posts are from San Francisco, 10% from Mountain View, and 8% from Los Angeles. For Data Analyst posts, 15% are from Mountain View and 11% are from San Francisco.
 
@@ -137,6 +121,19 @@ The salaries are above the national average for these roles because the majority
 <figure>
 <img src="cropped_images/barh_title_location_snipped.jpg"><br/>
   <figcaption>Figure 6: Barplots of the most frequent locations of companies hiring for Data Scientist and Data Analyst roles.</figcaption>
+</figure>
+</div>
+<br/><br/>
+
+
+The companies with the most posts for Data Scientists are TikTok (4%) and Foursquare (3%), and for Data Analysts are Intuit (11%) and Aquent (11%). 
+
+
+<br/><br/>
+<div align="center">
+<figure>
+<img src="cropped_images/barh_title_company_snipped.jpg"><br/>
+  <figcaption>Figure 7: Barplots of the most frequent companies hiring for Data Scientist and Data Analyst roles.</figcaption>
 </figure>
 </div>
 <br/><br/>
