@@ -2,8 +2,6 @@
 
 This repository is for the analysis of data science jobs posted to the website [SimplyHired](https://www.simplyhired.com/). Below you will find an overview of the data collection, data cleaning, and exploratory data analysis results. I created this project to help me understand the types of jobs in data science, their qualifications and benefits, locations, and salary ranges. I am most interested in Data Scientist and Data Analyst positions, so that is what this repository focuses on.
 
-### Project Outcome
-
 ### Code Used 
 
 **Python Version:** 3.9.7 <br />
