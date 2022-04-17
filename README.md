@@ -28,7 +28,7 @@ This Jupyter Notebook file contains the OLS analysis (of the imputed data).
 
 ## Data Collection
 
-The data was collected on December 17, 2021. The postings were from Aug 17, 2021 and Dec 17, 2021. The total number of postings collected was 1342. The number of pages was limited to 99 which corresponds to 1342 postings.
+The data was collected on December 17, 2021. The postings were from Aug 17, 2021 and Dec 17, 2021. The total number of postings collected was 1342. The number of pages was limited to 99 which corresponds to 1342 postings. The job board SimplyHired was chosen because it offered salaries for most positions and had the benefits and qualifications conveniently seperated from the body of the post.
 
 ## Data Cleaning
 
