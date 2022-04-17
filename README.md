@@ -48,7 +48,7 @@ The following changes were made to the non-imputed dataframes for the OLS analys
 
 ## EDA
 
-Below are some of the highlights from the EDA. Since I am primarily interested in Data Analyst and Data Scientist roles, this is what the selected figures present. Other roles can be found in the EDA.ipynb Jupyter Notebook.
+Below are some of the highlights from the EDA. Since I am primarily interested in Data Analyst and Data Scientist roles, this is what the selected figures present. Other roles can be found either in the EDA.ipynb Jupyter Notebook or output/eda folder.
 
 <div align="center">
 <figure>
@@ -60,35 +60,35 @@ Below are some of the highlights from the EDA. Since I am primarily interested i
 <div align="center">
 <figure>
 <img src="cropped_images/hist_title_salary_snipped.jpg"><br/>
-  <figcaption>Figure #: </figcaption>
+  <figcaption>Figure 2: Distribution of salaries for Data Scientist and Data Analyst roles.</figcaption>
 </figure>
 </div>
 
 <div align="center">
 <figure>
 <img src="cropped_images/barh_title_skills_snipped.jpg"><br/>
-  <figcaption>Figure #: </figcaption>
+  <figcaption>Figure 3: Barplots of most frequently mentioned skills for Data Scientist and Data Analyst roles.</figcaption>
 </figure>
 </div>
 
 <div align="center">
 <figure>
 <img src="cropped_images/barh_title_location_snipped.jpg"><br/>
-  <figcaption>Figure #: </figcaption>
+  <figcaption>Figure 4: Barplots of the most frequent locations of companies hiring for Data Scientist and Data Analyst roles.</figcaption>
 </figure>
 </div>
 
 <div align="center">
 <figure>
 <img src="cropped_images/barh_title_company_snipped.jpg"><br/>
-  <figcaption>Figure #: </figcaption>
+  <figcaption>Figure 5: Barplots of the most frequent companies hiring for Data Scientist and Data Analyst roles.</figcaption>
 </figure>
 </div>
 
 <div align="center">
 <figure>
 <img src="cropped_images/barh_title_benefits_snipped.jpg"><br/>
-  <figcaption>Figure #: </figcaption>
+  <figcaption>Figure 6: Barplots of the most frequent benefits offered by companires hiring for Data Scientist and Data Analyst roles.</figcaption>
 </figure>
 </div>
 
