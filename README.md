@@ -52,6 +52,7 @@ The following changes were made to the non-imputed dataframes for the OLS analys
 
 Below are some of the highlights from the EDA. Since I am primarily interested in Data Analyst and Data Scientist roles, this is what the selected figures present. Other roles can be found either in the EDA.ipynb Jupyter Notebook or output/eda folder.
 
+Data Scientist and Data Analyst roles are among the lowest paid in data science. The highest paying jobs are data science manager/director type roles, machine learning research roles which require doctorates, and more computer science centric roles such as the Machine Learning Engineer. The lowest paid roles in data science are Statisticians.
 
 <br/>
 <div align="center">
