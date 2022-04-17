@@ -48,6 +48,8 @@ The following changes were made to the non-imputed dataframes for the OLS analys
 
 ## EDA
 
+Below are some of the highlights from the EDA. Since I am primarily interested in Data Analyst and Data Scientist roles, this is what the selected figures present. Other roles can be found in the EDA.ipynb Jupyter Notebook.
+
 <div align="center">
 <figure>
 <img src="output/eda/boxplot_title_salary.jpg"><br/>
