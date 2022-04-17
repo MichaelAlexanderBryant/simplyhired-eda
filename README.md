@@ -73,10 +73,10 @@ The years of experience required to become a Data Scientist was more ambiguous t
 <div align="center">
 <figure>
 <img src="cropped_images/bar_title_level_2_snipped.jpg"><br/>
-  <figcaption>Figure 3: Barplot for experience level distribution for Data Scientist and Data Analyst roles.<br/></figcaption>
+  <figcaption>Figure 3: Barplot for experience level distribution for Data Scientist and Data Analyst roles.</figcaption>
 </figure>
 </div>
-
+<br/><br/>
 The number one skill that companies are looking for in Data Scientists and Data Analysts is SQL. 63% of Data Scientist job posts and 72% of Data Analyst job posts mention SQL. Other top technical skills mentioned by Data Scientist posts are C (39%), R (36%), machine learning (28%), and Python (20%). Other top technical skills mentioned by Data Analyst posts are C (39%), Tableau (37%), R (35%), analysis skills (33%), Microsoft Excel (21%), and data visualization (21%). The educational barrier of entry for Data Scientist roles is higher than the Data Analyst. The most frequently required level of education for the Data Scientist roles is a Master's degree (with 48% mentioning the degree) followed closely by a Doctoral degree (40%) and Bachelors degree (40%). In contrast, for Data Analyst roles 56% of posts mention a Bachelor's degree and only 33% mention a Master's degree. 
 
 <div align="center">
